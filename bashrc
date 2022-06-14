@@ -1,0 +1,7 @@
+alias ta="tmux a"
+alias vi="nvim"
+alias l="ls -lF"
+alias s="ls -F"
+alias u="cd .."
+alias h="cd ~"
+alias b="cd -"
