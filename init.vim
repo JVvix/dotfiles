@@ -9,8 +9,7 @@ nnoremap sb :ls<cr>:buffer<space>
 nnoremap ;3 :buffer #<cr>
 nnoremap ;cd :silent cd ~/dotfiles/<cr>
 nnoremap ;cs :silent cd ~/shopping-list-2/Concepts/<cr>
-nnoremap Gac :silent !git add . <cr> :silent !git commit -m "<Left>"
-nnoremap Gacp :silent !git add . <cr> :silent !git commit -m "<Left>" :silent !git push<cr>
+nnoremap Gac :!git add %; git commit -m ""; git push<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
 nnoremap Gp :silent !git push<cr>
 inoremap ;e <esc>
 
