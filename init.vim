@@ -10,7 +10,7 @@ nnoremap ;3 :buffer #<cr>
 nnoremap ;cd :cd ~/dotfiles/<cr>
 nnoremap ;cs :cd ~/shopping-list-2/Concepts/<cr>
 nnoremap Ga :!git add %<cr>
-nnoremap Gc :!git commit -m <space>
+nnoremap Gc :!git commit -m "<Left>"
 nnoremap Gp :!git push<cr>
 inoremap ;e <esc>
 
