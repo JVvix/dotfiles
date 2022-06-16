@@ -1,3 +1,5 @@
+shopt -s autocd
+
 alias ta="tmux -2 a"
 alias vi="nvim"
 alias l="ls -lF"
@@ -8,4 +10,4 @@ alias b="cd -"
 alias gp="git push"
 alias gc="git commit"
 alias ga="git add ."
-alias sb=". bashrc"
+alias sb=". ~/dotfiles/bashrc"

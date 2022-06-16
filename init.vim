@@ -9,7 +9,7 @@ nnoremap sb :ls<cr>:buffer<space>
 nnoremap ;3 :buffer #<cr>
 nnoremap ;cd :silent cd ~/dotfiles/<cr>
 nnoremap ;cs :silent cd ~/shopping-list-2/Concepts/<cr>
-nnoremap Gac :!git add %; git commit -m ""; git push<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
+nnoremap Gac :!git add .; git commit -m ""; git push<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
 inoremap ;e <esc>
 
 " arrows keys disabled to learn use hjkl movement
