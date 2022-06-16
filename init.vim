@@ -7,11 +7,11 @@ nnoremap ;sv :so ~/dotfiles/init.vim<cr>
 nnoremap ;r :!php %<cr>
 nnoremap sb :ls<cr>:buffer<space>
 nnoremap ;3 :buffer #<cr>
-nnoremap ;cd :cd ~/dotfiles/<cr>
-nnoremap ;cs :cd ~/shopping-list-2/Concepts/<cr>
-nnoremap Ga :!git add %<cr>
-nnoremap Gc :!git commit -m "<Left>"
-nnoremap Gp :!git push<cr>
+nnoremap ;cd :silent cd ~/dotfiles/<cr>
+nnoremap ;cs :silent cd ~/shopping-list-2/Concepts/<cr>
+nnoremap Ga :silent !git add %<cr>
+nnoremap Gc :silent !git commit -m "<Left>"
+nnoremap Gp :silent !git push<cr>
 inoremap ;e <esc>
 
 " arrows keys disabled to learn use hjkl movement
