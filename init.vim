@@ -1,4 +1,5 @@
 set number
+hi StatusLine cterm=none ctermbg=darkgray
 nnoremap ;w :w<cr>
 nnoremap ;x :x<cr>
 nnoremap ;q :q<cr>
@@ -19,5 +20,4 @@ nnoremap <left>  <nop>
 nnoremap <right> <nop>
 nnoremap <up>    <nop>
 nnoremap <down>  <nop>
-
 inoremap <esc>   <nop>
