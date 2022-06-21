@@ -13,6 +13,7 @@ nnoremap ;cs :silent cd ~/shopping-list-2/Concepts/<cr>
 nnoremap Gac :!git add %; git commit -m ""; git push<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
 nnoremap Gs :!git status<cr>
 nnoremap Gl :!git log<cr>
+nnoremap ;eb :e ~/dotfiles/bashrc<cr>
 inoremap ;e <esc>
 
 " arrows keys disabled to learn use hjkl movement
