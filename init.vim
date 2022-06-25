@@ -15,6 +15,9 @@ nnoremap Gs :!git status<cr>
 nnoremap Gl :!git log<cr>
 nnoremap ;eb :e ~/dotfiles/bashrc<cr>
 inoremap ;e <esc>
+nnoremap sl <c-w>l
+nnoremap sh <c-w>h
+" nnoremap sr :tmux send-keys -t left
 
 " arrows keys disabled to learn use hjkl movement
 nnoremap <left>  <nop>
