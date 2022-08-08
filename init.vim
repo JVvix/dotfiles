@@ -19,7 +19,9 @@ nnoremap ;r :!php %<cr>
 nnoremap ;sv :so ~/dotfiles/init.vim<cr>
 nnoremap ;w :w<cr>
 nnoremap ;x :x<cr>
-nnoremap ;R :!tmux send-key -t right Up Enter \; tmux select-pane -R<cr><enter>
+nnoremap ;R :!tmux select-pane -R \; send-key Up Enter \; select-pane -L<cr><Enter>
+
+" -t right Up Enter \; select-pane -L<cr><Enter>
 
 nnoremap Gac :!git add %; git commit -m ""; git push<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
 nnoremap Gl :!git log<cr>
