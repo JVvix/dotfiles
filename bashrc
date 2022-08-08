@@ -1,5 +1,8 @@
+SSHOPT="-o userknownhostsfile=/dev/null -o StrictHostKeyChecking=no"
+
 shopt -s autocd
 
+alias ssh="/usr/bin/ssh $SSHOPT"
 alias ta="tmux -2 a"
 alias vi="nvim"
 alias l="ls -lF"
