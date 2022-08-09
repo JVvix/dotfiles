@@ -21,3 +21,6 @@ alias sb="source. ~/dotfiles/bashrc"
 alias tal="sudo tail -300f /var/log/apache2/error.log"
 alias p3="ssh pi3"
 alias pf="ssh flypi"
+alias fe='vi $(find ~ | fzf)'
+alias lg="tmux popup -E -w 90\% -h 90\% ~/.local/bin/lazygit -ucf ~/dotfiles/lazygit.init"
+echo lastline bashrc
