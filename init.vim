@@ -20,6 +20,7 @@ nnoremap ;sv :so ~/dotfiles/init.vim<cr>
 nnoremap ;w :w<cr>
 nnoremap ;x :x<cr>
 nnoremap ;R :!tmux select-pane -R \; send-key Up Enter \; select-pane -L<cr><Enter>
+nnoremap ;g :!tmux popup -E -w 90\% -h 90\% ~/.local/bin/lazygit -ucf ~/dotfiles/lazygit.init<cr><Enter>
 
 " -t right Up Enter \; select-pane -L<cr><Enter>
 
