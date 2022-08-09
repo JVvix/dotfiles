@@ -1,10 +1,13 @@
 SSHOPT="-o userknownhostsfile=/dev/null -o StrictHostKeyChecking=no"
+PATH="$PATH:~/.local/bin"
 
 shopt -s autocd
 
 alias ssh="/usr/bin/ssh $SSHOPT"
-alias ta="tmux -2 a"
-alias vi="nvim"
+alias ta="tmux a"
+alias tmux="tmux -2 -f  ~/dotfiles/tmux.conf"
+alias t="tmux"
+alias vi="nvim -u ~/dotfiles/init.vim"
 alias l="ls -lF"
 alias s="ls -F"
 alias u="cd .."
