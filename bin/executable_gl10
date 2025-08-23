@@ -1,0 +1,4 @@
+#nmcli dev wifi connect PCS password 11223344
+export SSHPASS=adgfss
+#echo $SSHPASS
+sshpass -e ssh -oHostKeyAlgorithms=+ssh-rsa root@10.1.1.32 # GL-SFT1200 Opal

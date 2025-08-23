@@ -1,0 +1,1 @@
+tmux capture-pane -pS -53 > /tmp/o

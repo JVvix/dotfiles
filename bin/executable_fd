@@ -1,0 +1,2 @@
+echo \> fdfind $@
+fdfind $@

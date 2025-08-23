@@ -1,0 +1,2 @@
+yd -x --compat-options filename-sanitization --audio-format mp3 "$(xclip -se c -o)"
+rna

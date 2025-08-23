@@ -1,0 +1,8 @@
+cd ~/yay-linux-music/sleep
+rb.sh
+
+cd ~/yay-linux-music/distractfun
+rb.sh
+
+cd ~/yay-linux-music/supercoolmusic
+rb.sh
