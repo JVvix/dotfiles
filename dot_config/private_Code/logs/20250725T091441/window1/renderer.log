@@ -1,0 +1,17 @@
+2025-07-25 09:14:46.143 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-25 09:14:46.177 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-25 09:14:46.177 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-25 09:14:48.413 [info] Started local extension host with pid 35122.
+2025-07-25 09:14:56.304 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-25 09:14:57.143 [info] [perf] Render performance baseline is 126ms
+2025-07-25 09:15:18.508 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-25 09:15:18.510 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-25 09:15:18.510 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-25 09:15:18.991 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-07-25 09:15:19.574 [info] Started local extension host with pid 35235.
+2025-07-25 09:15:22.479 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-25 09:15:26.115 [info] [perf] Render performance baseline is 105ms
+2025-07-26 06:37:54.993 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-07-26 06:45:09.054 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-07-26 06:52:23.234 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-07-26 17:11:03.353 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.chatSessionStore, join.chatEditingSession

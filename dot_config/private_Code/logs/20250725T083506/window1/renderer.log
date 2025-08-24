@@ -1,0 +1,13 @@
+2025-07-25 08:35:12.282 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-25 08:35:12.329 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-25 08:35:12.331 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-25 08:35:12.504 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 24ms.
+2025-07-25 08:35:12.610 [warning] Creation of workbench contribution 'workbench.contrib.editorStatus' took 48ms.
+2025-07-25 08:35:12.657 [warning] Creation of workbench contribution 'workbench.contrib.notebookChatContribution' took 34ms.
+2025-07-25 08:35:14.320 [info] Started local extension host with pid 32455.
+2025-07-25 08:35:14.793 [info] Started initializing default profile extensions in extensions installation folder. file:///home/fly/.vscode/extensions
+2025-07-25 08:35:14.852 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-07-25 08:35:16.757 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/fly/.vscode/extensions Unable to create file 'vscode-userdata:/home/fly/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2025-07-25 08:35:16.758 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/fly/.vscode/extensions
+2025-07-25 08:35:21.363 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-25 08:35:23.252 [info] [perf] Render performance baseline is 143ms

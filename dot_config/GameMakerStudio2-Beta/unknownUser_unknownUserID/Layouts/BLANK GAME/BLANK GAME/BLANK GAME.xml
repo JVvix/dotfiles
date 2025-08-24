@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="Default" Platform="Test" Runtime="VM" Device="Default">
+	<Desktop x="247" y="1117" width="1280" height="683" id="19" title="BLANK GAME - GameMaker-Beta" windowState="Maximized" dpi="104">
+		<Workspaces>
+			<Workspace active="True" chain="True" title="Workspace 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xA;    &quot;1&quot;&#xA;]" workspace_offset="[0, 0]" workspace_scale="1" />
+		</Workspaces>
+		<Dock state="Expanded" type="eLeft" restore_size="304.6154dpi_px" active_tab="0">
+			<DockTab localise_title="Inspector_WindowTitle" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="4eaa16c6-d771-44fe-8dd2-2870e5acb533">
+				<Module Command="open_inspector">
+					<Inspector>
+						<Window left="0dpi_px" right="" top="0dpi_px" bottom="" width="340dpi_px" height="600dpi_px" flags="Default" title="Inspector" localise_title="Inspector_WindowTitle" />
+					</Inspector>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eRight" restore_size="305.53845dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="33ea0a69-1e38-4fcd-9b3e-33b0adf892b9">
+				<Module Command="open_asset_browser">
+					<AssetBrowser sort="AtoZ" foldersFirst="True" zoom="100">
+						<Window left="" right="" top="" bottom="" width="370dpi_px" height="463dpi_px" flags="Default" title="Asset Browser" localise_title="AssetBrowser_Title" />
+					</AssetBrowser>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eBottom" restore_size="200.30768dpi_px" active_tab="5">
+			<DockTab localise_title="OutputPanel_Output" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="fd038fae-4b04-41d7-9158-df5277d86a7d">
+				<Module Command="open_output_panel">
+					<Window left="0dpi_px" right="" top="0dpi_px" bottom="" width="900dpi_px" height="240dpi_px" flags="Default" title="Output" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SearchResults" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="6ef4b500-c7a5-4b00-bf93-5f27326acc3c">
+				<Module Command="open_search_output_panel">
+					<Window left="0dpi_px" right="" top="0dpi_px" bottom="" width="900dpi_px" height="240dpi_px" flags="Default" title="Search Results" localise_title="OutputPanel_SearchResults" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SourceControl" cell_sizes="[1000]" layout_id="dock_tab_3" layout_guid="87a6bfd7-1ea8-48a6-87f7-fda6de781e49">
+				<Module Command="open_sc_output_panel">
+					<Window left="0dpi_px" right="" top="0dpi_px" bottom="" width="900dpi_px" height="240dpi_px" flags="Default" title="Source Control" localise_title="OutputPanel_SourceControl" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Breakpoints" cell_sizes="[1000]" layout_id="dock_tab_4" layout_guid="f86a6212-bdcf-475d-9502-a2cc18622a82">
+				<Module Command="open_breakpoint_mgr">
+					<Window left="0dpi_px" right="" top="0dpi_px" bottom="" width="900dpi_px" height="240dpi_px" flags="Default" title="Breakpoints" localise_title="Breakpoints" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="CompileErrors" cell_sizes="[1000]" layout_id="dock_tab_5" layout_guid="6ffc7e38-7905-4688-b1f6-2c57935cb22c">
+				<Module Command="show_compile_errors">
+					<Window left="0dpi_px" right="" top="0dpi_px" bottom="" width="900dpi_px" height="240dpi_px" flags="Default" title="Compile Errors" localise_title="CompileErrors" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Feather_LintMessages_Title" cell_sizes="[1000]" layout_id="Diagnostics" layout_guid="13f3a856-20cf-4df7-bf40-384595430c96">
+				<Module Command="feather_lint_messages_initialized">
+					<Window left="" right="" top="" bottom="" width="800dpi_px" height="600dpi_px" flags="Default" title="Feather Messages" localise_title="Feather_LintMessages_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="PrefabLibrary" cell_sizes="[1000]" layout_id="Prefabs" layout_guid="13f3a856-20cf-4df7-bf40-384595430c96">
+				<Module Command="open_prefab_library">
+					<PrefabLibrary>
+						<Window left="" right="" top="" bottom="" width="930dpi_px" height="600dpi_px" flags="Default" title="Prefab Library - Available Prefabs" localise_title="PrefabLibrary" />
+					</PrefabLibrary>
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+</Project>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>GameMaker Beta Runtimes Updates Feed</title>
+    <link>http://store.yoyogames.com/downloads/gm-studio/update-studio.rss</link>
+    <description>GameMaker Beta Runtimes Updates Feed</description>
+    <language>en</language>
+    <!-- END yygames -->
+    <item>
+      <title>Version 2024.1300.0.753</title>
+      <pubDate>Wed, 12 Feb 2025 08:55:42 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1300.0.753.json</comments>
+      <enclosure url="https://gms.yoyogames.com/a91461f0-8a96-4af3-92bf-a827a47b5110.zip" sparkle:version="2024.1300.0.753" type="application/octet-stream" length="29047563" sparkle:dsaSignature="MCwCFBurVEVHsrjXpiMPvtdpBnp+l/HPAhQQNDkePy+TNNPY7WbpQrDeWt9t5g==">
+        <module name="android" url="https://gms.yoyogames.com/87430613-a04a-4751-a851-9420114983bd.zip" sparkle:version="2024.1300.0.753" length="41250929" sparkle:dsaSignature="MCwCFEYWiqcxKbhHHsWktxEiMOjQrEcwAhR4jOM6vZ8CB02HSimnP1IJcfLPnw==" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/51726a38-4d92-4a3b-aebb-705634f71456.zip" sparkle:version="2024.1300.0.753" length="134323616" sparkle:dsaSignature="MC0CFQCQ/9nzC8ySIvtuKKg4e1nmnjC2FgIUPzLKwuwIPJRBgmBR55aUt8JaGZ4=" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/a61ea94d-9e53-4974-96d8-a28848cd10f2.zip" sparkle:version="2024.1300.0.753" length="139270355" sparkle:dsaSignature="MCwCFBXG+olKETX395gqxilhinhkF3OVAhRjU5JNvmsgo3eczLzBaWVsvYRHRA==" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/e2b26e37-384f-4459-b552-ba697a27c804.zip" sparkle:version="2024.1300.0.753" length="140816854" sparkle:dsaSignature="MC0CFCRQnv/zo7NfzD7BcUPSnyJJGIU8AhUAkDKm9r9AoubVuAzzbH5zeHuiRqc=" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/04514e90-83a2-4a61-80f3-2f0c9211e07b.zip" sparkle:version="2024.1300.0.753" length="147117544" sparkle:dsaSignature="MCwCFCu69994dDezIqJIPc7HxWbym12lAhQIj2K/EIiLbNn2rrqBMl0zgftgnQ==" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/361763b2-d266-43b1-9fbd-e374b0e92e13.zip" sparkle:version="2024.1300.0.753" length="179259584" sparkle:dsaSignature="MCwCFGNtDus+sT+YsBDdYLYV4r24maLoAhQyEtL742tznpdG/T/ol8xPpsei1w==" />
+        <module name="html5" url="https://gms.yoyogames.com/4b6d82ce-9049-4d8f-835e-8eb1fbd222bc.zip" sparkle:version="2024.1300.0.753" length="577469" sparkle:dsaSignature="MCwCFEqSczXm9j74/jhpaxbe3nsv+s0BAhQslA1YGnmiitNR9S9VoSQsqDb36Q==" />
+        <module name="ios" url="https://gms.yoyogames.com/33bc088f-b9a7-47cc-bf20-491ae4abc8a6.zip" sparkle:version="2024.1300.0.753" length="187256583" sparkle:dsaSignature="MCwCFHv9pQqgW4o5oh95sRj15R84zIzfAhRXZWaB/zc3w/aCpShqrdTfvchEgQ==" />
+        <module name="linux" url="https://gms.yoyogames.com/54e78106-c266-4bbe-8305-da33578c1a84.zip" sparkle:version="2024.1300.0.753" length="10377716" sparkle:dsaSignature="MCwCFG3X+Q00v0LOtrNb+YWhKtBmofn2AhQh4evJ03mwccjEPLZWPMTbzUwNJg==" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/c34c7900-5bc1-49be-980c-b42e82eaf665.zip" sparkle:version="2024.1300.0.753" length="116112152" sparkle:dsaSignature="MCwCFDkYBp7vA4GEwrw3QLnGNT1wlkadAhQLbRodJwUaZwQgVPfFt+X5XROgnQ==" />
+        <module name="mac" url="https://gms.yoyogames.com/ac5d00ac-9fae-481b-ae96-e7877a0a572e.zip" sparkle:version="2024.1300.0.753" length="12230494" sparkle:dsaSignature="MC0CFQCX3NHpE8wzfR+Wi/+7dLozIzyyugIUUSB+dl7Y4qzs2VSPgUKhRTUSeRU=" />
+        <module name="macYYC" url="https://gms.yoyogames.com/1c8343b3-7ba6-4b01-aae2-a9c9265ed633.zip" sparkle:version="2024.1300.0.753" length="30787214" sparkle:dsaSignature="MCwCFHtAxoC56EkNWT1LnKxls/zLPn6pAhR+DqayhLyqTilfD2hiHjlcjD9mhQ==" />
+        <module name="operagx" url="https://gms.yoyogames.com/583480cd-1f86-4c75-a4ff-910f5f4b5430.zip" sparkle:version="2024.1300.0.753" length="5660183" sparkle:dsaSignature="MCwCFAW9WGC6U8dd/JuQvscco87WqrQZAhQVcEzi+XQPKoAevw425nlNxktz0Q==" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/3518ed7a-9646-4957-bb45-d706e2975efc.zip" sparkle:version="2024.1300.0.753" length="25982831" sparkle:dsaSignature="MC0CFQCCBGpgjUsFRk6G1oLznOWCs7y4KAIUO8343UIFM4RkxXPPwi4vk5bztxI=" />
+        <module name="ps4" url="https://gms.yoyogames.com/92581263-2268-4b45-bb94-771465ab64f3.zip" sparkle:version="2024.1300.0.753" length="15161807" sparkle:dsaSignature="MC0CFQCAF/es7uD+mUTEg9Bo/qqJ3PG1mAIUU57h5Dk0IgIgi1fswhf7fzzZAXo=" />
+        <module name="ps5" url="https://gms.yoyogames.com/02bc9254-ec66-4983-b442-5a3cf90e0566.zip" sparkle:version="2024.1300.0.753" length="16581987" sparkle:dsaSignature="MC0CFQCSN7a5xKFTMxgozcBOr5HDHy8BeAIUNlWyJSpn0f9V8tKtcP8SvW6RCsU=" />
+        <module name="switch" url="https://gms.yoyogames.com/8b9bc947-ae32-42c4-bc23-4cfb60357a67.zip" sparkle:version="2024.1300.0.753" length="60013190" sparkle:dsaSignature="MC0CFAX7B0bCFUkhJL1cHj1F/5FgLCM8AhUAlCDXNqnVWe4SbcFiZYStXcRHs14=" />
+        <module name="tvos" url="https://gms.yoyogames.com/2a4997e5-bdbf-437b-bf89-8532f5fb7417.zip" sparkle:version="2024.1300.0.753" length="555315390" sparkle:dsaSignature="MCwCFAC3endJszNMXVePGfCVJXaIMsmhAhRGtOGoGFZhRxAka+QAWJZXppQNLA==" />
+        <module name="windows" url="https://gms.yoyogames.com/91c55911-11e7-43f4-848b-4978c402cc70.zip" sparkle:version="2024.1300.0.753" length="46840389" sparkle:dsaSignature="MC4CFQCa376SXaMCFoSCuwA89FVYcuSILQIVAJevwKrj9ccGbgQRNN/QT6TrP9kV" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/276f645b-5ef7-4600-ae49-9713f877bfcb.zip" sparkle:version="2024.1300.0.753" length="92068449" sparkle:dsaSignature="MCwCFGQBjX1H05xyHkFVF9elKZFpeedmAhRBEihi2OAet9TLlYaXUvTJiZha7A==" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/51759b3a-6d40-43b8-813f-0d886b6e920a.zip" sparkle:version="2024.1300.0.753" length="55021395" sparkle:dsaSignature="MC0CFQCPVaKgSebzNi1J23GsNUIVLQVT1gIUZfnf2wjbmgdIIrRr06NjUPKn9lU=" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2024.1300.0.775</title>
+      <pubDate>Thu, 06 Mar 2025 10:01:59 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1300.0.775.json</comments>
+      <enclosure url="https://gms.yoyogames.com/d1ed97a5-dac0-4446-8db7-9edbc4c7786c.zip" sparkle:version="2024.1300.0.775" type="application/octet-stream" length="29048254" sparkle:dsaSignature="MCwCFEAEYHNHhZDI8koL9/WWjieiyTbrAhR/RZHw3QgtVciGnXDX3V0PKvu6lw==">
+        <module name="android" url="https://gms.yoyogames.com/f21f7e82-e722-4b31-aef2-e0678ebf0fc7.zip" sparkle:version="2024.1300.0.775" length="41833509" sparkle:dsaSignature="MCwCFFCxei1R1uGW7xk1UJmhm2Dkj1OGAhQYDonPa6GJeAln9/h6+8DGMdc+wA==" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/5d6720f2-aed9-4661-ad3f-73963c28e49b.zip" sparkle:version="2024.1300.0.775" length="134368066" sparkle:dsaSignature="MC4CFQCRHr6miWZ1NqTMlMSL2gGwakHmrgIVAJn/GrKG4wJXJZESOFf6ojHGI8GO" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/c9fe7c82-04b9-4974-9dd7-de4511d60caa.zip" sparkle:version="2024.1300.0.775" length="139314324" sparkle:dsaSignature="MC0CFEPJrxWjeADdn8YRloRJ1s7Q8mz2AhUAjsw5ydLX/Rx4srtzOp0xpaqFiVw=" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/72e76e18-6c25-4f2f-8fb8-d035a7eebb44.zip" sparkle:version="2024.1300.0.775" length="140861306" sparkle:dsaSignature="MC0CFECpBdtmVmx2+VFwzOrdFdtVS4jFAhUAibtlT8TpAHPW6yaBskU3nQCdduw=" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/da258959-cc57-4280-87c4-d69dbd9fd39a.zip" sparkle:version="2024.1300.0.775" length="147162136" sparkle:dsaSignature="MCwCFD9/AN1hWwT11z8gXwmuMfsZRgaTAhRmTJhRXIYnJemEV1CWR203RBRm6A==" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/91d5d6e7-4815-4885-ace8-bb396c263436.zip" sparkle:version="2024.1300.0.775" length="179290537" sparkle:dsaSignature="MC0CFQCZoXQkBtH9d2rc+pfIvKeG1yNxJwIUGtTnEiD9nKVxLome0jhHiYmcyfE=" />
+        <module name="html5" url="https://gms.yoyogames.com/25f93d11-8816-4d59-b234-ec0259281260.zip" sparkle:version="2024.1300.0.775" length="577406" sparkle:dsaSignature="MC0CFE/6IWbDaQH5cYnHKyjzk8QfXar3AhUAip436slxq9WhA0jkVGg2nkkd8VU=" />
+        <module name="ios" url="https://gms.yoyogames.com/a8a96497-291d-4c13-a5d5-c6c16c1e7cd8.zip" sparkle:version="2024.1300.0.775" length="193483585" sparkle:dsaSignature="MCwCFFRveMBGUb1yNlEDMRW7dCzExU4dAhQqyYQmOWyrM/Sdn5aglEAIDgkvuQ==" />
+        <module name="linux" url="https://gms.yoyogames.com/3128ff7d-b030-4e99-88c5-eb0e92a2cf31.zip" sparkle:version="2024.1300.0.775" length="10528346" sparkle:dsaSignature="MCwCFFZ0JFXtioHxp4zYrwjYckv3MoeFAhQhzj0lspsJRIS+xRJ4yVZ2G2Ko2A==" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/a549ef24-c05e-4483-9d3b-139c913ee6cd.zip" sparkle:version="2024.1300.0.775" length="108233863" sparkle:dsaSignature="MCwCFDrMRoi8N7AfdTA8lpyInRP3QGtrAhQDkH2rH45fw0U1RO4+LytOiTkhfw==" />
+        <module name="mac" url="https://gms.yoyogames.com/6d236723-19c4-4169-bf31-686af4814192.zip" sparkle:version="2024.1300.0.775" length="12404168" sparkle:dsaSignature="MCwCFDNAkeWb8fvFTjqJt9U3hupuSuDJAhRTGZccnMrsAvb6q72c2PJi9IQp7g==" />
+        <module name="macYYC" url="https://gms.yoyogames.com/ad106d60-9a51-474e-a2f9-9f65efee821c.zip" sparkle:version="2024.1300.0.775" length="31015640" sparkle:dsaSignature="MC0CFCnk4okr0XNl40Zc6KZzSJoCgWCRAhUAgyDbVHHJMf7K7Tgv331n5Kj0s0c=" />
+        <module name="operagx" url="https://gms.yoyogames.com/b592b8e9-926f-4eaa-90f0-6763324e74a9.zip" sparkle:version="2024.1300.0.775" length="5734349" sparkle:dsaSignature="MC0CFGN6qf577IcttdHZ5HaQ579MkaNDAhUAip2Zc0KLCN3kYSbCzZ7hX2prQpg=" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/50c21b25-7cdf-41f5-963c-406365affc5e.zip" sparkle:version="2024.1300.0.775" length="27531839" sparkle:dsaSignature="MCwCFA/jbDAMU8qrlEfHUDgW1Bim0sG2AhQVTaLmKwWENvrt1m1PLzhB3hfruw==" />
+        <module name="ps4" url="https://gms.yoyogames.com/a686298e-f310-4b28-909d-5fa18e598a04.zip" sparkle:version="2024.1300.0.775" length="15365374" sparkle:dsaSignature="MCwCFA7aJehvr97kQVs+IQc0UEUXJ8ycAhQBJZlz8i4fUc8fZKlcvhYvyEInBQ==" />
+        <module name="ps5" url="https://gms.yoyogames.com/84d5fd3e-3db5-41b9-8995-fc27f92d6960.zip" sparkle:version="2024.1300.0.775" length="16843935" sparkle:dsaSignature="MCwCFGjYPOty7FRYHC2StqR3V+IiivpDAhRE1P7sAzCrUAGQ043F/yg7X/1AJg==" />
+        <module name="switch" url="https://gms.yoyogames.com/cbd6f029-f334-4449-856d-c212c06631a3.zip" sparkle:version="2024.1300.0.775" length="62249469" sparkle:dsaSignature="MC0CFGwG8TwI8By9lt9h/Xjd4D7yiq9nAhUAiL06UW8rYQ057hZ9ICduMefWoN0=" />
+        <module name="tvos" url="https://gms.yoyogames.com/ea499f5d-7d67-4401-b653-81edc028de25.zip" sparkle:version="2024.1300.0.775" length="574391326" sparkle:dsaSignature="MCwCFDyleEgbk92S9P6HzQCsXQ1h9Df3AhRZs6/DdP2A4t3q2qVA7CLuUDlr+w==" />
+        <module name="windows" url="https://gms.yoyogames.com/3b910be9-9f7f-44d2-b5e3-7744fec2f0fd.zip" sparkle:version="2024.1300.0.775" length="46966237" sparkle:dsaSignature="MCwCFG5EA+i/tpI2IfmI9ludN6Ed13AUAhQPvMmYy6nrS9hqX7evaocUmu8b0w==" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/7bb1b8d7-c168-4add-8fe0-30912d804505.zip" sparkle:version="2024.1300.0.775" length="93135882" sparkle:dsaSignature="MCwCFC6S3yRTI13dhHemUrWMTp9jIlXuAhRHq8FP48Jg5Yyd8qNn2ho5wVU5tg==" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/3092b12b-dab9-45a0-bedf-c70aaeec2bc5.zip" sparkle:version="2024.1300.0.775" length="55948675" sparkle:dsaSignature="MC0CFQCA8w91RcdJut89B2yUf8aEo86FcQIUMYBgRcvGQPNIpHMoq/7CU/8u5YE=" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2024.1300.0.781</title>
+      <pubDate>Wed, 12 Mar 2025 12:19:46 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1300.0.781.json</comments>
+      <enclosure url="https://gms.yoyogames.com/a2f9b2e8-b5c3-4e5a-b7a6-b6da74e715e5.zip" sparkle:version="2024.1300.0.781" type="application/octet-stream" length="29048256" sparkle:dsaSignature="MCwCFAtp6O+kq/yLYeCcA2pAxPAVUUshAhR2NZZosnzg6rURVO6knRr6AumcbA==">
+        <module name="android" url="https://gms.yoyogames.com/854b4d91-5759-4bb9-8a22-18ed08fc4115.zip" sparkle:version="2024.1300.0.781" length="41844401" sparkle:dsaSignature="MC0CFQCJB+SjhQb5M4+INtbQaFYrsNe9OQIUXKW7tokFxDq8ZTFd6RbBmhbzIPM=" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/c84138b3-34f0-431e-a42d-c2d4e4c92bda.zip" sparkle:version="2024.1300.0.781" length="134378086" sparkle:dsaSignature="MC0CFEhhn/shBMftf767+n0O+wh05pFtAhUAghMKKDbSC2EpiNBQ4fiPpzuLtS0=" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/ea817116-c2df-4fab-a519-0e1d7789fadd.zip" sparkle:version="2024.1300.0.781" length="139330348" sparkle:dsaSignature="MCwCFG6e6VX24ih5utdJ3+LYHqOKdUIhAhQzf/i6rEbktKM70kM0X/rz2rAG9w==" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/87092119-f5cd-453f-be62-abb28b063f07.zip" sparkle:version="2024.1300.0.781" length="140873625" sparkle:dsaSignature="MCwCFG/TsjNIlJ0D1fLnt8mmJkoD1GbcAhRERfIT94152duo7hCWaqrfaAQsAQ==" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/6c65b20a-73d4-4e5b-a291-335cb59e8a73.zip" sparkle:version="2024.1300.0.781" length="147176798" sparkle:dsaSignature="MCwCFGWTysIzdkYIQfPNGPI0BH2ApGp8AhQGZ8ihrL/7sCOLDwJgen3QKqWtVg==" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/ea68fe74-240d-4c46-80b4-1ac8a5dd2ba6.zip" sparkle:version="2024.1300.0.781" length="179302625" sparkle:dsaSignature="MCwCFBrWbhWKtgjh3cBSaJkZbwcMJGHbAhRdDihwwLTcxKZNhBV6sVfdsUAd2w==" />
+        <module name="html5" url="https://gms.yoyogames.com/7f3370eb-6909-45f7-be76-df48c8205017.zip" sparkle:version="2024.1300.0.781" length="577838" sparkle:dsaSignature="MCwCFDF+j8Es2SdBMLDFhvXYysfKv3pTAhRT0mCm4DZ9/jd34QtZ5MN1oye9XQ==" />
+        <module name="ios" url="https://gms.yoyogames.com/a2c35ffd-a330-4903-b685-f0dd420793c1.zip" sparkle:version="2024.1300.0.781" length="193562294" sparkle:dsaSignature="MCwCFG2SAVKi5sQXi8TT8XBSlS9pgy0+AhQPt6DsY1+/QQG0TXQ6glJXSKVOFw==" />
+        <module name="linux" url="https://gms.yoyogames.com/9202184b-aec0-4b77-9e09-cf16b90351b1.zip" sparkle:version="2024.1300.0.781" length="10533495" sparkle:dsaSignature="MC0CFCXBbdJal7MnWbVq3EWVWf8QbUvOAhUAmwM26iSzM4ZZ6BXD63uAt6Wj9QM=" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/f463cd2a-7363-448b-a9a9-493cea06139d.zip" sparkle:version="2024.1300.0.781" length="108286341" sparkle:dsaSignature="MCwCFCW6wG6uEdUORuUtW041U3cfLOukAhRmFZHmLi5IarartIsH8et9z3WBRw==" />
+        <module name="mac" url="https://gms.yoyogames.com/1943bc5c-2d1a-44e0-92d6-4236f4d0767f.zip" sparkle:version="2024.1300.0.781" length="12407548" sparkle:dsaSignature="MCwCFBP3AUI/JB3IjMtTr78TCIVrj7vtAhR7pdpl9CMs5HLMeBhrQU29u5xyKg==" />
+        <module name="macYYC" url="https://gms.yoyogames.com/6b9000a6-dc5f-4e20-b5fb-c5a5686215ae.zip" sparkle:version="2024.1300.0.781" length="31017453" sparkle:dsaSignature="MC0CFFx/qwDji2ovBcqiNP5I4kEPwdKPAhUAlqD3OycwZoeN4VmjU/RGJR0NFwQ=" />
+        <module name="operagx" url="https://gms.yoyogames.com/e257f5a7-f099-4623-b719-198515bc1512.zip" sparkle:version="2024.1300.0.781" length="5736604" sparkle:dsaSignature="MCwCFFSLbVeXLTl1y/GhVjg2th4hTc5SAhRMZjEFmeARhQ91UNq+e4Z8+4NebA==" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/961b6a64-5f10-4240-a880-08e9cce10c0a.zip" sparkle:version="2024.1300.0.781" length="27540990" sparkle:dsaSignature="MC0CFQCPSzqskVT8GWRslOLA+1vy8NKIUgIUXs1HoZZoAEvh/33fgRA+IJNqYDY=" />
+        <module name="ps4" url="https://gms.yoyogames.com/045e48e2-5e77-45df-bbda-4ea24b48850a.zip" sparkle:version="2024.1300.0.781" length="15370116" sparkle:dsaSignature="MCwCFDZCn9qgwCGEO8cqukwJy6Do1wK0AhQ5X8scyN3btAU2NxX3XImPU9Fk6A==" />
+        <module name="ps5" url="https://gms.yoyogames.com/1abefcf5-85e9-4b3a-8a1c-18a6470b1976.zip" sparkle:version="2024.1300.0.781" length="16850212" sparkle:dsaSignature="MCwCFDiUEkEBSoQfcsho1HI+GARERkkyAhQ5S59n+Jv28DR5bKmmEe1y8fipRA==" />
+        <module name="switch" url="https://gms.yoyogames.com/4c63adeb-4ea7-4210-9a11-8efe90c4a016.zip" sparkle:version="2024.1300.0.781" length="62276880" sparkle:dsaSignature="MCwCFES0Emj96Ih5DOvTCtqQFbn37IXxAhRARMAR+Gi2uoDU3jwlx8NMCJBr6A==" />
+        <module name="tvos" url="https://gms.yoyogames.com/6df235e0-44fe-4053-8326-bf0eda566832.zip" sparkle:version="2024.1300.0.781" length="574707329" sparkle:dsaSignature="MCwCFB9mr3fA3Gy0XUe2PbAXgcOrIoc9AhQij0cI0xg4PynefLIkJg5sncevKQ==" />
+        <module name="windows" url="https://gms.yoyogames.com/80bdc2d0-e275-49f7-a626-a896a68345f1.zip" sparkle:version="2024.1300.0.781" length="46968649" sparkle:dsaSignature="MCwCFDe28Z5Hn5uJIvB45ZBMzElAyzCnAhQmMPb2cCsYzM5R0eOhU7l2nCouSQ==" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/8d2d3380-f496-4f3d-a235-0d5ec788339a.zip" sparkle:version="2024.1300.0.781" length="93157140" sparkle:dsaSignature="MCwCFBsVxMl8XWM5S4UO65XICE9gqke3AhQvk4MdCgcIl+u0pacLHH7HQYpSGw==" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/22b86b7f-1dd6-4fab-9631-fd25f96193ff.zip" sparkle:version="2024.1300.0.781" length="55958642" sparkle:dsaSignature="MC0CFF6MaNzheTLi2IZhkCjNkma8q/91AhUAlPFtEl0ybnkn5heNJxYjw6MaOJg=" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2024.1300.0.786</title>
+      <pubDate>Wed, 19 Mar 2025 16:53:09 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1300.0.786.json</comments>
+      <enclosure url="https://gms.yoyogames.com/743309f4-62fd-41f0-aa18-16bfb4eb8bff.zip" sparkle:version="2024.1300.0.786" type="application/octet-stream" length="29048281" sparkle:dsaSignature="MCwCFEJZF8xfTqBNKNZFeL9WY86DTiRhAhQlJDXEvIX1thFo2HZgKjiShYvgiA==">
+        <module name="android" url="https://gms.yoyogames.com/bc9a3cf8-a7c8-452e-abea-22915cbe1106.zip" sparkle:version="2024.1300.0.786" length="41854544" sparkle:dsaSignature="MCwCFCpGMHt0+XB8vYoUO6l4y9Auav6RAhQV3TDFwtGpnBeR2gFX3dI5hDSWAA==" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/54341c1a-3c21-4192-9b91-0fee22401255.zip" sparkle:version="2024.1300.0.786" length="134378972" sparkle:dsaSignature="MCwCFE6I8Hybc+md3YWGh2/2Ra2dsqgOAhRjocviHvvpIu9jvLKOHWXJxP5V/Q==" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/5f71e0cc-9295-4458-8f64-4bd7291f683c.zip" sparkle:version="2024.1300.0.786" length="139330788" sparkle:dsaSignature="MC0CFQCEOEvUWMYo5KhmHFRmRguRnjudPwIUbciPUg+J3fGN/mV2rBDngwJPpZE=" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/5a5c52df-e113-4ea7-9633-724f5834e350.zip" sparkle:version="2024.1300.0.786" length="140874220" sparkle:dsaSignature="MC0CFQCHzcGyCwUFwyfmn3Jl+RgeSKu3/QIUA21H30SLV2nR4xqH09Y6OSAGi6w=" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/dea1cade-6964-42e0-bfd4-b4b0e551941b.zip" sparkle:version="2024.1300.0.786" length="147177663" sparkle:dsaSignature="MC4CFQCMWqTAs2W+T93ST1LjKgkrstPgaQIVAJfBA0g23MRVZNzMHL5r2rR3YTAb" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/3265695c-205a-486f-9a0f-7ac9fe98381a.zip" sparkle:version="2024.1300.0.786" length="179303351" sparkle:dsaSignature="MC0CFQCHpRGFE5PqsNibVDTl9kwbgQTu8AIUUCYk7iLQfJTEJWAcs+Xz5TCYVGw=" />
+        <module name="html5" url="https://gms.yoyogames.com/1a4697b9-9fcb-4f98-800b-fe0ec2cf4fab.zip" sparkle:version="2024.1300.0.786" length="578093" sparkle:dsaSignature="MCwCFF7acbg+uKFCfzgRc8XQQuzr35nIAhQfbvAo0HtPEX9gWtfNM5i1WhP7mw==" />
+        <module name="ios" url="https://gms.yoyogames.com/aa2c0d43-7cb2-486b-969c-469f2026115e.zip" sparkle:version="2024.1300.0.786" length="193578446" sparkle:dsaSignature="MC0CFBbhfk8sJF/f9jl1xmm4hJV+LZdFAhUAktORa8xsC6qKiJF+pt0uPf82WYs=" />
+        <module name="linux" url="https://gms.yoyogames.com/743a1e52-e6ed-4b0a-924f-30246d712bc8.zip" sparkle:version="2024.1300.0.786" length="10536657" sparkle:dsaSignature="MCwCFHmmL9TCfejDwO3+BWU4VWE5F1S4AhQrNgxoBH0IhFxRAtbnD301c7vWTg==" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/f6c4e8a9-7652-460f-9c35-d3e14976bba0.zip" sparkle:version="2024.1300.0.786" length="108292090" sparkle:dsaSignature="MCwCFEDThbH0ViNnR3U455pE1m4VyP7BAhQaA8DYpgkvcFTSH7WUZQXhGEPkmA==" />
+        <module name="mac" url="https://gms.yoyogames.com/6051058b-7fcf-4a09-a291-1ba64ee29b8e.zip" sparkle:version="2024.1300.0.786" length="12409142" sparkle:dsaSignature="MCwCFF38eDwtUhdKRoV78OZC3+uaFrfiAhRJjCyQCmAAfK8NEZbgSfiUBNZF0w==" />
+        <module name="macYYC" url="https://gms.yoyogames.com/7bf28d4b-6a76-4a31-a6ad-7a00de47af87.zip" sparkle:version="2024.1300.0.786" length="31017084" sparkle:dsaSignature="MCwCFBXeMlTS7LqZtGxnN0lA+LrzwggOAhRnb+8T8EoK760ckTRUapDgfmt0XQ==" />
+        <module name="operagx" url="https://gms.yoyogames.com/4fdb10fc-b44d-435e-84a2-61cecbe8e233.zip" sparkle:version="2024.1300.0.786" length="5739329" sparkle:dsaSignature="MCwCFAV8AjJxDs/FzOvIBH0WthmiiF9VAhRZPujMziF9fCP2HB/vPzYvK13OMg==" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/0dc4dc01-7b53-40fc-9015-db5e16770157.zip" sparkle:version="2024.1300.0.786" length="27544974" sparkle:dsaSignature="MCwCFHReAf2Logl8JJ4K8r5szVYeFLA9AhQ7XYh7UFAAGHb6am+0hqGIY0LUYw==" />
+        <module name="ps4" url="https://gms.yoyogames.com/d74c618a-6ce5-4bfd-b66d-c9a1822e38a5.zip" sparkle:version="2024.1300.0.786" length="15373458" sparkle:dsaSignature="MCwCFEgZpFMkx/EwOZJtF4tTwhIjl7spAhQOdjFo+WThRKitpFdOP9iDyPVUJw==" />
+        <module name="ps5" url="https://gms.yoyogames.com/41ce82a9-cd20-4174-9e4a-9760a846bde5.zip" sparkle:version="2024.1300.0.786" length="16855437" sparkle:dsaSignature="MCwCFAOWR178SdTaibuhPFVLLnn5A4ypAhRnc4JMsf5bHXMIoznzYTpN/B5DyA==" />
+        <module name="switch" url="https://gms.yoyogames.com/91807b5b-005a-489f-bd00-92d775716672.zip" sparkle:version="2024.1300.0.786" length="62294226" sparkle:dsaSignature="MC0CFQCLx2I7BZOagW3kkWInBzCzsoUuLgIUDKlGBxFkbs/70CcImVzMQjVvfiA=" />
+        <module name="tvos" url="https://gms.yoyogames.com/93b2d8d6-7592-461e-be94-d95bf00d88d3.zip" sparkle:version="2024.1300.0.786" length="574669538" sparkle:dsaSignature="MC0CFQCYaiItSzjvXR+D6ZldM3LuSpcQigIUbGWgZ1CtDEXvTh0RNK/0S6BSLoM=" />
+        <module name="windows" url="https://gms.yoyogames.com/85128ab9-1225-4fff-b84a-bc062f29b992.zip" sparkle:version="2024.1300.0.786" length="46969809" sparkle:dsaSignature="MCwCFHT+HmVysuL8l2/Pe2Efu+ZSvQmxAhQCf9UEwVPc9Ci+y/UEOcO3vUe/tQ==" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/b5145473-666c-4a4b-84e2-3bf47daa9dea.zip" sparkle:version="2024.1300.0.786" length="93161168" sparkle:dsaSignature="MCwCFD7Xs6jEefmVz5qo51DhVYVl4JMcAhRe6jjPQ32SuWrkDLFVfdHPSFDFJA==" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/15ffe230-0a4a-46b4-97bd-1bc3a22c4298.zip" sparkle:version="2024.1300.0.786" length="55967257" sparkle:dsaSignature="MCwCFFNdXw7U3Ygw1Cqx1n71CQLVVNRfAhQLKuuU/HkF5w3j4ly5Q8DN4fxq3g==" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2024.1400.0.802</title>
+      <pubDate>Mon, 28 Apr 2025 17:18:47 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1400.0.802.json</comments>
+      <enclosure url="https://gms.yoyogames.com/cf364bdf-64df-475a-9d5a-110504a0e5a3.zip" sparkle:version="2024.1400.0.802" type="application/octet-stream" length="29049788" sparkle:dsaSignature="MCwCFE8gbACQ6zUZIoDEzcqaeeyMA1KNAhR1fUNmTRCgV29fXbt7NBTx6tBZGw==">
+        <module name="android" url="https://gms.yoyogames.com/84c5b1e5-b53a-44ed-bcaa-bcd3a0df7387.zip" sparkle:version="2024.1400.0.802" length="41159678" sparkle:dsaSignature="MCwCFCLC44WnFCrWWd8z7nobgVH0Fe00AhRm5Y71gvAWQXLJx6udq21NU7eqWw==" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/945af4fb-be16-44c9-8861-b4c5973f2641.zip" sparkle:version="2024.1400.0.802" length="133960016" sparkle:dsaSignature="MCwCFDEgjl86cyKOhPoq06eETgdcGE7BAhRqOiOgLfnaRYiOkgdX0DrWzzjhiw==" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/3030643b-fb02-4abd-a78c-7c33ff29ee4d.zip" sparkle:version="2024.1400.0.802" length="139321634" sparkle:dsaSignature="MC0CFDWr1r8AUAGK7e/9JzAWnhSqBXbhAhUAjZ0j8kEXVpNFP9luyB7YYCI/JA8=" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/626d89c7-c80f-4f8b-a8c1-39d048f62254.zip" sparkle:version="2024.1400.0.802" length="136489366" sparkle:dsaSignature="MCwCFA4hMKrtem/vEJLFZ0raFxe9bzAeAhRL6JRQ0bDsg1ftgcq0ucJU5Ay4OA==" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/3f61ba41-dbe8-43c8-8b15-aa7f0007afdf.zip" sparkle:version="2024.1400.0.802" length="142728510" sparkle:dsaSignature="MCwCFHgn5XcJuFucmVdqOVMVL+qQNYWhAhQsUgflqiZ8SQyC8j+vfZcj3kyXEw==" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/a6aa1f01-d9f1-406a-8e8e-ac61281a3de1.zip" sparkle:version="2024.1400.0.802" length="175360888" sparkle:dsaSignature="MCwCFBr3uKnNtc7oeCrB6cSoWZHQBV6DAhQ7ysIaMjsAPUSx2VkJZfzcOYKcqA==" />
+        <module name="html5" url="https://gms.yoyogames.com/3e2c8a75-7a04-4d56-99d1-008e43c3f5a7.zip" sparkle:version="2024.1400.0.802" length="586566" sparkle:dsaSignature="MCwCFD8TnUzBVXFaurAe9wWsqtKmyJHsAhQCAPPaG5UE0cUm1uvZiQwA4YPXLw==" />
+        <module name="ios" url="https://gms.yoyogames.com/1956062b-713c-4012-baab-54370ae838cc.zip" sparkle:version="2024.1400.0.802" length="193051415" sparkle:dsaSignature="MC0CFQCK4Wr6Y2GS/aZVfwUkj1mGTBdOSQIUODoWikStaRwP2SI7rVhS2Bq55Wk=" />
+        <module name="linux" url="https://gms.yoyogames.com/4b0c78f5-629a-4e57-9485-af424185c6d2.zip" sparkle:version="2024.1400.0.802" length="10561217" sparkle:dsaSignature="MC0CFH8apDollUIV5k5VY9a8jlNtBy79AhUAnI0JqqjxfXIko/pqmpI/j3vAcbc=" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/736d8cf0-0575-46e8-bdb8-002a3762bb4f.zip" sparkle:version="2024.1400.0.802" length="109329389" sparkle:dsaSignature="MCwCFHcpwVmSpSFONJWNO/r9nSuqhluKAhQ2efqv6Pn0F91RprMkowWLa8aJ2A==" />
+        <module name="mac" url="https://gms.yoyogames.com/4f0f5031-fbcf-4c65-b373-9f863eb5447a.zip" sparkle:version="2024.1400.0.802" length="12276959" sparkle:dsaSignature="MCwCFGuYxmCnwhK60awKz50du9jGyvJsAhQ3X1fp47cXmHEOzPJHTYGUCJeCYA==" />
+        <module name="macYYC" url="https://gms.yoyogames.com/83da1436-3566-4fd2-bc6d-b50ab8122c37.zip" sparkle:version="2024.1400.0.802" length="30810226" sparkle:dsaSignature="MCwCFAoAoit8Q54gdPZPhNnS4ZX3uuE/AhQBcffTB3rvlK3+gUFjZS5eiHn83Q==" />
+        <module name="operagx" url="https://gms.yoyogames.com/c8ad427f-6552-42e1-b941-aa5c7cba3518.zip" sparkle:version="2024.1400.0.802" length="5755640" sparkle:dsaSignature="MC0CFQCUuDTftAAuXnT3ZHSEtmZ9FdGEswIURcn4jWWnVBN4umS0lwSKltIT24k=" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/555c9093-fab6-42ea-b35c-847a808ffe37.zip" sparkle:version="2024.1400.0.802" length="27820422" sparkle:dsaSignature="MC0CFQCWNCyUYQk3oT3G7OLD5gX1njgd4wIUb71ZQKN0yKAQXjF9w95ihAujXhI=" />
+        <module name="ps4" url="https://gms.yoyogames.com/29e08dcf-8463-4e4f-8c85-eb95d176e2e9.zip" sparkle:version="2024.1400.0.802" length="15131037" sparkle:dsaSignature="MC0CFQCB5pcsKjOOxbtmsgZfniZYZe8Z4QIUVqmObCZSAaKs2uJNJVehnJVzbtA=" />
+        <module name="ps5" url="https://gms.yoyogames.com/3d265572-dc39-4870-9640-0053ba7e3517.zip" sparkle:version="2024.1400.0.802" length="16552660" sparkle:dsaSignature="MCwCFDe50ElfGP+ItQ3pBUTnbVHEvRpHAhRY4BXUWoiFghpoLwau/NWW8c0pMw==" />
+        <module name="switch" url="https://gms.yoyogames.com/e8aee3aa-7ec2-4a6f-bb26-3a94b0c8523e.zip" sparkle:version="2024.1400.0.802" length="62676239" sparkle:dsaSignature="MCwCFGVhFhTmeYtQptdHEFHzKrbXRaDyAhQlocFUm6PEmfw/NT+vt3d4QdbXow==" />
+        <module name="tvos" url="https://gms.yoyogames.com/fdff70ac-d430-40fe-a397-f020c1da2db7.zip" sparkle:version="2024.1400.0.802" length="573077144" sparkle:dsaSignature="MCwCFADvmd7d9YgkOS/JwJb532j64v/0AhQTXbYcl1e6p+iGcAj2mkbjx9CX8Q==" />
+        <module name="windows" url="https://gms.yoyogames.com/6836aa07-7acf-4a1c-a700-0b5e1dd86e06.zip" sparkle:version="2024.1400.0.802" length="46996575" sparkle:dsaSignature="MCwCFFFNVUxc0LyxprZ2NV+CnccANZLWAhR/OSSbsRVcZ6Ccl6L89TrixiY0gg==" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/2d8cdc49-5c5a-4329-87e4-545dced52a16.zip" sparkle:version="2024.1400.0.802" length="93548542" sparkle:dsaSignature="MCwCFDFfFkynU0VULNXTroW23p1shc9dAhRKFS2T5W8VTl3z2uVn7yN33lRJ1Q==" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/72475a74-0871-48ab-a3e5-0f85a3b685d0.zip" sparkle:version="2024.1400.0.802" length="56373297" sparkle:dsaSignature="MCwCFEdGLvxuSv2byeqYzre/RCA+2BzgAhQ8s0NMvpqG4kZ9IOMIWT9yCM9Cqw==" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2024.1400.0.810</title>
+      <pubDate>Fri, 16 May 2025 07:52:39 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1400.0.810.json</comments>
+      <enclosure url="https://gms.yoyogames.com/8335382a-b70a-4b28-bbfe-1ffbe2b7462a.zip" sparkle:version="2024.1400.0.810" type="application/octet-stream" length="29149344" sparkle:dsaSignature="MCwCFDOYjlVr/YrBOC6Tiu4rV7K/D40fAhRFDKfYe8icq1NQUTLbOIviMQGFbA==">
+        <module name="android" url="https://gms.yoyogames.com/e343c719-5d47-4683-ab9f-40178f645944.zip" sparkle:version="2024.1400.0.810" length="41364163" sparkle:dsaSignature="MCwCFDMojHXH4UMx3Q3x4ir9iE8hrxF9AhQzFPNLRTXeL89ZAuVsX0rUXGEvYw==" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/606f9680-a4e2-4dcb-9298-546149c6f7a4.zip" sparkle:version="2024.1400.0.810" length="133981889" sparkle:dsaSignature="MC0CFQCAv+s7lwqGoHJJDGOGI3Pfr4aPfgIUabnKQLHuQS5CoF7C8hEx0e6bG8U=" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/dbf0b456-c01c-499f-a149-24df492fad0b.zip" sparkle:version="2024.1400.0.810" length="139343989" sparkle:dsaSignature="MC0CFQCELdXkqdIreVycvGeZX4YGr5/e8gIUEj54vu1J1MrF42tYUE5MeP00K18=" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/9feaf8c2-9351-4efc-9a4c-234db8fd5ffb.zip" sparkle:version="2024.1400.0.810" length="136510130" sparkle:dsaSignature="MCwCFCnjksSAuibXGjSmyboa0ff7vUiDAhRtJin3gcrEYQy2IDqXlMQXgiqFnw==" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/9be62ca8-b31a-450c-992d-67aeb6630867.zip" sparkle:version="2024.1400.0.810" length="142750648" sparkle:dsaSignature="MCwCFBimMJFrkaDpoRnDZmxdNvJSO5a6AhRBK4yeCATJiltwPbhnGiFS+BKzuw==" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/90a1b622-c7eb-4458-9e50-19431df9fa4a.zip" sparkle:version="2024.1400.0.810" length="175372019" sparkle:dsaSignature="MC0CFQCFuc2zWlCUxBg5+CVn/dEdTf/LGQIULKln/KssisBcnSt1YLYW1rtetkI=" />
+        <module name="html5" url="https://gms.yoyogames.com/85f9ce71-03d1-4029-aa5e-750d3b2a0ac9.zip" sparkle:version="2024.1400.0.810" length="587046" sparkle:dsaSignature="MC0CFQCb+NrKQD5j4Dqh1vasVc8Tph2/EgIUMm+T90SGvBzPrM3g6Y/Z9/qbefo=" />
+        <module name="ios" url="https://gms.yoyogames.com/5893872b-c6c1-40e0-b2dc-6d263feaa6f7.zip" sparkle:version="2024.1400.0.810" length="194119392" sparkle:dsaSignature="MC0CFCdRbfzka8JATVTTso1pzKFFbBC2AhUAj3q588+ONNHx5uQZzCrmpUg0zBA=" />
+        <module name="linux" url="https://gms.yoyogames.com/07af1852-31dd-4f78-a74a-4ea099559c2b.zip" sparkle:version="2024.1400.0.810" length="10638652" sparkle:dsaSignature="MCwCFD6/Ic2ZHtu/EsyrFbaILbgoIH8IAhQMroBMWyDPlfjMRmeLt7KUqmXMkA==" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/58d30a72-651f-48d8-9f9d-24f9315e857b.zip" sparkle:version="2024.1400.0.810" length="110140744" sparkle:dsaSignature="MC0CFAv2cnCbKNibWODzqq9PoU9WUeQ3AhUAmKIONS9+n6NaJaD9X04zYM4/+Ho=" />
+        <module name="mac" url="https://gms.yoyogames.com/8f2da81a-34df-4878-be2d-f4d00ba68fdf.zip" sparkle:version="2024.1400.0.810" length="12326389" sparkle:dsaSignature="MCwCFCL3J7vk6309/kd0nBHPSLir+VLYAhQz1FKy8DNGdKGZV3Ghq9P8dCqygg==" />
+        <module name="macYYC" url="https://gms.yoyogames.com/48a2e317-04c7-4429-b3fd-ac000158b485.zip" sparkle:version="2024.1400.0.810" length="30884865" sparkle:dsaSignature="MC0CFQCF9WWVU9sINxP7vW22N/60JbNH1AIUas/AHSlofkKWxW7XD7vhSyJzdVA=" />
+        <module name="operagx" url="https://gms.yoyogames.com/e0c794ef-3505-49f3-8579-33d03bda0483.zip" sparkle:version="2024.1400.0.810" length="5787886" sparkle:dsaSignature="MCwCFGuxNxN3Jx3nhLxDiYl53memNX0jAhQYRU1H+hHBovmKUzozwpYfKuPkmg==" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/5bf44ff3-989a-4926-9e4c-53d0555388b0.zip" sparkle:version="2024.1400.0.810" length="28092166" sparkle:dsaSignature="MCwCFENh/swD5rMacYm9AK5T81d9yZOYAhQFKTo99J62h6QHDKtuF6yZmfzvnA==" />
+        <module name="ps4" url="https://gms.yoyogames.com/16119bd9-ac8d-4952-95f7-3c8c182194bf.zip" sparkle:version="2024.1400.0.810" length="15203388" sparkle:dsaSignature="MCwCFGwyO0Rc8EVMCWOd5vDqLrO/vYxeAhRuDvGa2aPdY3rVVaAOPd+8E7K8Xw==" />
+        <module name="ps5" url="https://gms.yoyogames.com/8f0a607d-03bb-4cca-95de-7368f19869f0.zip" sparkle:version="2024.1400.0.810" length="16642753" sparkle:dsaSignature="MCwCFGXM0isCyaWDBveMkw2xBQkxnxwRAhRJG/QtWgaMS1KOerLE2vKoK0jFoA==" />
+        <module name="switch" url="https://gms.yoyogames.com/6549f6e1-18f0-4f94-906c-6d3e7eb6580e.zip" sparkle:version="2024.1400.0.810" length="63126442" sparkle:dsaSignature="MCwCFHilfzkQBhvR6zVr0x51815bjhaNAhRwEFuzusAldjR3e/P6iMMIelcLqg==" />
+        <module name="switch2" url="https://gms.yoyogames.com/cae51ee6-66e9-4aa5-8335-914eaf7aa2b7.zip" sparkle:version="2024.1400.0.810" length="61698849" sparkle:dsaSignature="MCwCFFbrM4X5esCDhvJJb+2/6M/hZ3TxAhRaX5a06fPXfClIb5RgY4ICwjPJaQ==" />
+        <module name="tvos" url="https://gms.yoyogames.com/c8acdbb6-9e4f-44bc-a5a9-03c4e66c861a.zip" sparkle:version="2024.1400.0.810" length="576224877" sparkle:dsaSignature="MC0CFBuN8rY6glFyFnSjSIXoGFa5NiyGAhUAnJNzPx2iWlG5OgiOPhwnmDV1T3k=" />
+        <module name="windows" url="https://gms.yoyogames.com/2cf3defe-7b1d-4171-9464-5790b87ec40f.zip" sparkle:version="2024.1400.0.810" length="47049901" sparkle:dsaSignature="MCwCFGZ29VvhD5hQXo7IYWtvu6ZQbi0+AhR/14hhobccE4z7Dp0Zsj7mKe31LA==" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/bdb7d606-0e59-4282-b8dd-05a778b9f4dd.zip" sparkle:version="2024.1400.0.810" length="93861888" sparkle:dsaSignature="MC0CFQCDnR9dQ+2I9m8FW5TyjefWBNh3cQIUTjS09dYAaJIw+FzvnPdAbbFwYKY=" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/ccfa55e8-21bb-4162-be55-50c7bf77c9db.zip" sparkle:version="2024.1400.0.810" length="50532477" sparkle:dsaSignature="MC0CFGa1guPdI54saXA/64S9spLMnxdlAhUAl8ri5gj2XM6tuLr1BjZNwi86ht0=" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2024.1400.0.815</title>
+      <pubDate>Thu, 29 May 2025 08:08:17 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1400.0.815.json</comments>
+      <enclosure url="https://gms.yoyogames.com/a07874ef-99a1-4930-89a4-5a9dbd3f74bc.zip" sparkle:version="2024.1400.0.815" type="application/octet-stream" length="29149028" sparkle:dsaSignature="MC0CFQCDzSMsLXrVOCbEkhSNxg8qahNFqwIUGPGa4l15dE2roPL/q/BIemmlq8I=">
+        <module name="android" url="https://gms.yoyogames.com/a498b9ec-fd90-4aba-8f31-4efa52fb4a58.zip" sparkle:version="2024.1400.0.815" length="41405335" sparkle:dsaSignature="MCwCFBzUq/oS9Fpp8Z3DryD7DRhoTHseAhQdFKzLOfUlua+LgJrM36ACJTo0uQ==" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/89cdb90b-97c7-4962-8c59-c64e1bc991a8.zip" sparkle:version="2024.1400.0.815" length="133987139" sparkle:dsaSignature="MCwCFD+1xXDDHKDShYJ1Ol0yVjkhAr+lAhQ8JV+D8k27IsuRpB44NQiyQCjqtw==" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/36c6c741-e4e3-4192-bafb-150f4834b093.zip" sparkle:version="2024.1400.0.815" length="139349082" sparkle:dsaSignature="MCwCFEU/ZPDMxi1kn7NFhAKAVr8hKojEAhQuVHZzB8AJLutKGTqucWmEZhW8hw==" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/e4b1e254-a3ed-4dba-998e-64b8afdabc69.zip" sparkle:version="2024.1400.0.815" length="136515291" sparkle:dsaSignature="MCwCFD6Yrd0BKizYd7HGL0gp/CCDK7nRAhQuX2hCYmuzdIxKnXLpCLWgUvP6wg==" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/920cbd52-5cdf-4e84-9e1f-7f71f8c250a1.zip" sparkle:version="2024.1400.0.815" length="142755385" sparkle:dsaSignature="MCwCFGMb/u6riG3ze9YbJ+cVgCw8lVv6AhQ9qph8wHyXS8SpvmJdRhKforynfA==" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/283be217-6373-4d8f-bb44-3dfd1f71c33c.zip" sparkle:version="2024.1400.0.815" length="175375943" sparkle:dsaSignature="MCwCFA/CDJ+R672aM4XMYvugLbMRPtKTAhQPgs+6steQAkBEJNTrYjqyWFCsQQ==" />
+        <module name="html5" url="https://gms.yoyogames.com/6d6f4b41-e4da-401e-9a0c-400333560ced.zip" sparkle:version="2024.1400.0.815" length="587165" sparkle:dsaSignature="MCwCFGnNY1wt44O9yQta32adnkXkdyimAhRP5SPgPh8t1fnDdcjvzi3uaQEOxw==" />
+        <module name="ios" url="https://gms.yoyogames.com/bcd40724-78d4-42ec-9308-edeb7bf34eb7.zip" sparkle:version="2024.1400.0.815" length="194271229" sparkle:dsaSignature="MCwCFFda1AH0WssT2JJtYdu/+qFJBmUnAhQtMtjnzWBdJ2XnvoBQgUryH06vZg==" />
+        <module name="linux" url="https://gms.yoyogames.com/8395dd7e-22dd-4b36-b800-e8a83115406c.zip" sparkle:version="2024.1400.0.815" length="10652715" sparkle:dsaSignature="MC0CFQCVf6GfS69ZF8/oL9rZJVIVoS68KgIUXPEhQ3kSqPCfIT+Cqx5TGu9p6Yg=" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/016e7173-9b6e-439b-8605-7ba2c5d0474a.zip" sparkle:version="2024.1400.0.815" length="110444496" sparkle:dsaSignature="MCwCFFrKf9IQySTev0pTp3jWvre/dxMkAhQS6ccZQOxCENHYUGfENoyLB4F5iQ==" />
+        <module name="mac" url="https://gms.yoyogames.com/5f3b65c5-53c7-498b-a35b-261c0cfc72d9.zip" sparkle:version="2024.1400.0.815" length="12323277" sparkle:dsaSignature="MC0CFEi3fhGw3QsHHdPK7/WtUm480eHKAhUAlw+7unQRl6gQawvs2LfiaCPDsyg=" />
+        <module name="macYYC" url="https://gms.yoyogames.com/8da8e575-0bd1-42e7-8355-61e332e1dcfb.zip" sparkle:version="2024.1400.0.815" length="30872779" sparkle:dsaSignature="MCwCFANhEVBlJxHYs+1s9YxFrGMKocwlAhREzM1g78IkMUh5bBh0vHJbONIxzw==" />
+        <module name="operagx" url="https://gms.yoyogames.com/b685cf24-4e61-417f-9dec-2c76f48f36fc.zip" sparkle:version="2024.1400.0.815" length="5791357" sparkle:dsaSignature="MCwCFDmtok/67gIYKRFPikfpt1Wec4C6AhRtdo1kWE7bSmF/68NXUBrNEkes3A==" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/3b5e5754-9ad8-4d09-b8d7-a32851d0babd.zip" sparkle:version="2024.1400.0.815" length="28129337" sparkle:dsaSignature="MC0CFHpPXCeSPFV3duKV7FJz4YZx+2nvAhUAjx5GkpH75XQUFoxsFtgyOpNdlI8=" />
+        <module name="ps4" url="https://gms.yoyogames.com/0058c9c8-502c-4929-8bc5-617dd6e4ab49.zip" sparkle:version="2024.1400.0.815" length="15198469" sparkle:dsaSignature="MCwCFGlr6zDab56UUi6oE5c9rxkbTbJ1AhRC3lVUFhq5UzLaKL7nC+0vjWAasQ==" />
+        <module name="ps5" url="https://gms.yoyogames.com/c949ae23-1feb-49e0-a697-53af3d0bd15e.zip" sparkle:version="2024.1400.0.815" length="16649837" sparkle:dsaSignature="MC0CFGtl1XKOjEIkSy6RgtwJ1IKSSXi+AhUAjX4t5YtYk0bccyGIP0JVk82Ti3k=" />
+        <module name="switch" url="https://gms.yoyogames.com/1b46ff58-8cc8-40bd-bf4c-5f81bea5a691.zip" sparkle:version="2024.1400.0.815" length="63114268" sparkle:dsaSignature="MCwCFBVr9o0kzif3rMZ83TfJqb9DrXg4AhQde6ZySmxXB06NRxTCsA/0ynbE+A==" />
+        <module name="switch2" url="https://gms.yoyogames.com/66420cbb-0082-4c28-ac71-0fd8ef471e6b.zip" sparkle:version="2024.1400.0.815" length="61671762" sparkle:dsaSignature="MC0CFE8kEme/5zMwM23GwhW7NjFFg3fGAhUAi8rtVBFab7BAh5qPDmOUnyu7kKs=" />
+        <module name="tvos" url="https://gms.yoyogames.com/6a0baf55-ef5b-4bc8-aa35-c53d75f2e3ce.zip" sparkle:version="2024.1400.0.815" length="576737060" sparkle:dsaSignature="MCwCFF25CMP/4KYmirRuhFysD25KHmOiAhQDSB2h+ngfCAluShVOHz5Kqi8K3Q==" />
+        <module name="windows" url="https://gms.yoyogames.com/68779774-b430-4cbc-8755-214c707db163.zip" sparkle:version="2024.1400.0.815" length="47056710" sparkle:dsaSignature="MC0CFHKK0aHgiLamF68uYewrV3kEcfHTAhUAh/DP5OeqdhUIqIlpL94g0YXpc0g=" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/21d443d3-f655-4fb3-8f1b-094108dd711c.zip" sparkle:version="2024.1400.0.815" length="93903370" sparkle:dsaSignature="MCwCFE+QejzHpI5FOTKbbWYpyBfr/l8/AhRgZjgg9BRfGNIEX4lJQc3IeW7qUA==" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/cd7c1f23-49c1-4051-959e-8ee76fb26e9c.zip" sparkle:version="2024.1400.0.815" length="50453228" sparkle:dsaSignature="MCwCFDyLwpR1ZcQRDrpJs0BMVMZ3pLs8AhRonZtuS3k1LiQoPbqM+pLBULgEAw==" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2024.1400.0.822</title>
+      <pubDate>Tue, 10 Jun 2025 09:12:20 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1400.0.822.json</comments>
+      <enclosure url="https://gms.yoyogames.com/238b75d9-1f1b-46d4-bb8a-0f94e21ba56c.zip" sparkle:version="2024.1400.0.822" type="application/octet-stream" length="29149357" sparkle:dsaSignature="MCwCFBNmvMFBCqEWvful0RsT77xMu9dnAhRU8NhcMk9kXMMUd7bA1l93Xq/JkQ==">
+        <module name="android" url="https://gms.yoyogames.com/a8f21980-d030-40b5-9300-610734645b3b.zip" sparkle:version="2024.1400.0.822" length="41414599" sparkle:dsaSignature="MCwCFC24uXeQRqrsTI7C8WiejLLyr9QAAhRl5WT0MLJ7cBdpz+3Eds9F2Ha+QA==" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/2a0ea0f6-f4fd-4825-b34f-5dd83436b6c5.zip" sparkle:version="2024.1400.0.822" length="133987471" sparkle:dsaSignature="MCwCFBeXdF4OdQ2vPmS0SBLyzHWliYykAhQ45JwBPnELtw6NKT+q+rLBTWUDTg==" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/1b981721-5c89-4434-a311-d89943918f30.zip" sparkle:version="2024.1400.0.822" length="139349453" sparkle:dsaSignature="MC0CFQCTRNjFgOEiXk/sw/zFNYI0X8ZHggIUU8KJDuBoa6KOfBTsfbP99N/sunk=" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/5a26ec1f-e12a-43cd-800c-920d773438c7.zip" sparkle:version="2024.1400.0.822" length="136515750" sparkle:dsaSignature="MCwCFHCr1LHaV+RvrmzMGb+PwdFSpdIDAhQrYM35Z6G0dm3MVlaax2PEYE22ZQ==" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/126862fe-aecd-4fa6-b0ee-e617ab6c7989.zip" sparkle:version="2024.1400.0.822" length="142755784" sparkle:dsaSignature="MC4CFQCRs64kjAR2cqgn+0RiZiARJeeXdQIVAJw187sbjJ17PcsSIsKRmlzXgUzD" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/d259527c-0313-4b36-ac5e-f921f980f8d8.zip" sparkle:version="2024.1400.0.822" length="175376519" sparkle:dsaSignature="MCwCFCkdpHE8KwrK0tR/IXQfY8/HdwoPAhR9v8C9WHNhf4zq85ncBQ8o5ujxfQ==" />
+        <module name="html5" url="https://gms.yoyogames.com/89fc8001-6320-4a33-91b9-33aa9926fb07.zip" sparkle:version="2024.1400.0.822" length="587044" sparkle:dsaSignature="MCwCFCSi5GXKJTitTfCAVBy+c2ZpoCK9AhRyLGc1+TqEpV/W/K5egPAlGK/AKA==" />
+        <module name="ios" url="https://gms.yoyogames.com/a34c31bf-32e3-453d-a2d3-fa8d887e9d13.zip" sparkle:version="2024.1400.0.822" length="194307233" sparkle:dsaSignature="MCwCFAh8fllCMKadOFCAlNJG/e0Lbl/AAhQakNqk44DWp0QKEKe5Oyry1LpvmQ==" />
+        <module name="linux" url="https://gms.yoyogames.com/56ce11dc-9c22-4a29-9a76-75270f5bc6a9.zip" sparkle:version="2024.1400.0.822" length="10654985" sparkle:dsaSignature="MCwCFGJ677QNiUc5SXbDbW8QtstZXZ4qAhRhV63leY3q6ZJtzxVEnE/qcE5EgQ==" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/3256c07f-56ae-4643-972a-ef8e3f39b4d8.zip" sparkle:version="2024.1400.0.822" length="110410183" sparkle:dsaSignature="MC0CFQCRlD6KlNdZz9hTIyKLSYwM7mkqWgIUQLChKaDS6LP0zt374SZaA5foZeQ=" />
+        <module name="mac" url="https://gms.yoyogames.com/e700014e-826d-4ea1-8697-e4f8e40ba8ca.zip" sparkle:version="2024.1400.0.822" length="12329369" sparkle:dsaSignature="MCwCFAn81tHY9XJAWem1V3cp2UdKKJ4eAhQ6AKti/gY/tzVhd3lUuYyK1fi3gg==" />
+        <module name="macYYC" url="https://gms.yoyogames.com/f17a043f-b546-475b-a69c-bb14c47fd38d.zip" sparkle:version="2024.1400.0.822" length="30873819" sparkle:dsaSignature="MCwCFDqt1mgLougPIaa/MD3I9EVynVlVAhQhV586pq2ibBzgpcfchGkg+nmyyA==" />
+        <module name="operagx" url="https://gms.yoyogames.com/66d0d842-10fa-4917-8130-3aa2b23e1896.zip" sparkle:version="2024.1400.0.822" length="5793758" sparkle:dsaSignature="MC0CFBKFlv7cNOjAuTTqeLLHPs1JuycwAhUAjeRlQ0HNirkUlWqF1wSh8WidqqI=" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/9bd18a12-50cc-48a3-84cd-4f1124bf166c.zip" sparkle:version="2024.1400.0.822" length="28136235" sparkle:dsaSignature="MC0CFEDLFgstF3w7DZlw/T/EW85i4AwyAhUAlctl68GIf/t+CPckpln03yWeiMg=" />
+        <module name="ps4" url="https://gms.yoyogames.com/c515569c-1973-4c36-bf16-3e37ff00199b.zip" sparkle:version="2024.1400.0.822" length="15204363" sparkle:dsaSignature="MC0CFE/mVbYDTuVWSbfo1DHQCVPtHlrpAhUAhnwpLdNU0llqyw8MzpNqw7PlP38=" />
+        <module name="ps5" url="https://gms.yoyogames.com/dec20ead-c856-4bc2-8b74-35d7d7ab0ccb.zip" sparkle:version="2024.1400.0.822" length="16652368" sparkle:dsaSignature="MCwCFHuapYlBaUwNVWu6ojD2JSFsVHyPAhQsbnIzyjGBDHf/W3dsooaYCG3cgA==" />
+        <module name="switch" url="https://gms.yoyogames.com/b7ff4c7d-bb79-4c69-ae8d-a97268f58d52.zip" sparkle:version="2024.1400.0.822" length="63135632" sparkle:dsaSignature="MCwCFF2JsM5q+TYCErM0oh6r30HA1CfXAhR2aG1vPux/qpMwU8GdMe7MMMbTTw==" />
+        <module name="switch2" url="https://gms.yoyogames.com/ea65ee95-3ccb-4357-9615-6eae768a22fe.zip" sparkle:version="2024.1400.0.822" length="61746247" sparkle:dsaSignature="MCwCFDhd+Y+3Z/K3BlO2eNLFZdUFP8DqAhR6//qhAemhHq8uGeqmMdhS9vC8Pw==" />
+        <module name="tvos" url="https://gms.yoyogames.com/98984a0d-a27d-4ef3-8761-13d14d55d393.zip" sparkle:version="2024.1400.0.822" length="576998785" sparkle:dsaSignature="MCwCFBK769zACf2iIz+MIbH+kEE9F5b5AhQ6s7jqzeU0mWr5yzWmOtQEurd6ew==" />
+        <module name="windows" url="https://gms.yoyogames.com/42242c42-f858-4961-ab39-52eb9e727172.zip" sparkle:version="2024.1400.0.822" length="47061676" sparkle:dsaSignature="MCwCFFv5a93IMaBpa9VlbQdw+TT5DjmZAhQysVogj4Dr0fc5CasesjJIQhL6cQ==" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/2dd514c0-dd61-4602-b82b-e6bd3758abd3.zip" sparkle:version="2024.1400.0.822" length="93920753" sparkle:dsaSignature="MC0CFQCH90xzLK4JqFR3+uaJjLg1sE6yKAIUd1+/Is62rytZLKc/cHICl0MnOPM=" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/14e3bdc3-4ff8-42da-a954-a88992329e85.zip" sparkle:version="2024.1400.0.822" length="50446587" sparkle:dsaSignature="MCwCFCaRfHLsfxx1dbTUOXjrZpM7Q0+PAhRWIfL8Detn3f0FDSBXluKmZMa7rg==" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2024.1400.0.827</title>
+      <pubDate>Wed, 18 Jun 2025 12:22:52 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1400.0.827.json</comments>
+      <enclosure url="https://gms.yoyogames.com/a18d241b-642b-4615-b6ef-0de7fe2a7908.zip" sparkle:version="2024.1400.0.827" type="application/octet-stream" length="29149706" sparkle:dsaSignature="MC0CFQCRYcI66v78SQ8yTRKzLoCfOGzF/gIUCytP+NhLZiJ0rttNeNNIY8h8xAM=">
+        <module name="android" url="https://gms.yoyogames.com/52c2093b-6d9a-48b1-b579-bf0aa4447d14.zip" sparkle:version="2024.1400.0.827" length="41523061" sparkle:dsaSignature="MCwCFDJN/f4hZ/iEKqHsKX1NaFd/J6SdAhRTwsRpuH+RDpHM7KsBOIZTUaErvA==" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/f4151953-2363-4b1c-b537-fe0750631e97.zip" sparkle:version="2024.1400.0.827" length="134005831" sparkle:dsaSignature="MCwCFBpbjzg92TZPQG8U3fCUszZd4fUsAhQCI7qUl21nBPqf6d2DEPOfGPeSuw==" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/47e8e708-44da-419c-a623-d08668731080.zip" sparkle:version="2024.1400.0.827" length="139346702" sparkle:dsaSignature="MCwCFFyLwJbu+pffPxI5tfbm3QhSg3gEAhQlYdiy00jdacIkpky0AglNg16BVA==" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/0debc40a-08c4-46f3-873e-32fbe77c5c9e.zip" sparkle:version="2024.1400.0.827" length="136528669" sparkle:dsaSignature="MCwCFGUzaj5PID9pNuJD9JRFvXSJFwBGAhQej4QqrT9cTRyLzEu3gggD1Bq5EA==" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/530778af-3b70-43b8-9533-e5f7113fdd8c.zip" sparkle:version="2024.1400.0.827" length="142766886" sparkle:dsaSignature="MCwCFEKb+Z+TuuG7TX8HW8TK/4WaSx0fAhRz+sumUBACZD6kH+Jdft1rVfBj7g==" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/6c28fe1e-4277-4d1b-90ae-0d5feac2cf8d.zip" sparkle:version="2024.1400.0.827" length="175403091" sparkle:dsaSignature="MCwCFE2mLCLKWHE/LI3nI6TZk1Sc2Rk+AhQF9+FJb3ViVoo8c41ftQylGvfCOg==" />
+        <module name="html5" url="https://gms.yoyogames.com/9d0c2373-a567-410f-aaa9-16eafd19c44f.zip" sparkle:version="2024.1400.0.827" length="586953" sparkle:dsaSignature="MC0CFDEnJEwiVJB9MjUwZm4ALcX7zCbAAhUAjjCork6EzZLlLZ+4PF/UeZy+oP0=" />
+        <module name="ios" url="https://gms.yoyogames.com/f5ffc0c3-4bf8-40e0-b31e-71df30a63e36.zip" sparkle:version="2024.1400.0.827" length="204263083" sparkle:dsaSignature="MCwCFCDhRGZwOwOp2bi8sCgEL8vNVhdJAhR2YoQlcXm162EeLrE9aTzTw7Rpgg==" />
+        <module name="linux" url="https://gms.yoyogames.com/f91c7bc1-95f1-41e7-bf14-35564956a395.zip" sparkle:version="2024.1400.0.827" length="10682946" sparkle:dsaSignature="MC0CFQCCJbQxN6gKH2ZNgypABGvP1eL+wAIUDV+D0lTu3ytfOd7jOeRTuBy+5qo=" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/ce14f85c-cd43-42d4-a3cf-d14ae002d514.zip" sparkle:version="2024.1400.0.827" length="111027113" sparkle:dsaSignature="MCwCFDw8mknmCYp3c1UskZC7SvdTy9ycAhRF33KyVnaXqmigcSnvocNrbA7EBQ==" />
+        <module name="mac" url="https://gms.yoyogames.com/577bcffe-68ec-4afe-a4fb-e457196128b3.zip" sparkle:version="2024.1400.0.827" length="11822153" sparkle:dsaSignature="MCwCFHL71yOHLXiWYeHZEFsWuEkSN7tLAhRKr+WqZvbjmw5VfUtUnMZNFTzG9w==" />
+        <module name="macYYC" url="https://gms.yoyogames.com/dd329eee-6437-4b3e-8820-a5e37ce16f19.zip" sparkle:version="2024.1400.0.827" length="30815054" sparkle:dsaSignature="MCwCFDz2XkbjqFoS7OGVfqiWfeZQ7FPDAhQOGXKrw7z4rYRPu4DwKDY8QBzDzQ==" />
+        <module name="operagx" url="https://gms.yoyogames.com/549d4f0b-8ffb-4404-8bc7-671589376207.zip" sparkle:version="2024.1400.0.827" length="5804266" sparkle:dsaSignature="MC0CFDJmuV6aAmbIS+vpisaMjHn809UpAhUAlPllv6KFIkywH+sehD+ynmKRiQc=" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/d168f13f-353f-44f6-8c14-3383ed9e7368.zip" sparkle:version="2024.1400.0.827" length="28336668" sparkle:dsaSignature="MC0CFQCLQTI+TOSrCwUcp4lgSL7ynbpCdQIUHisMVZip6b8MxWGwRqlIlRQaKpQ=" />
+        <module name="ps4" url="https://gms.yoyogames.com/cd98a7bb-74fe-476a-8d67-698386bf9359.zip" sparkle:version="2024.1400.0.827" length="15239959" sparkle:dsaSignature="MC4CFQCF7IXsycfp9rjYBNfkOTlXeVbKLgIVAJNAJby9I9sJALuSkcKgIxKpn7Kn" />
+        <module name="ps5" url="https://gms.yoyogames.com/52f9200d-2394-46c5-aa31-8f60a4a737ce.zip" sparkle:version="2024.1400.0.827" length="16698875" sparkle:dsaSignature="MC0CFQCZtga5p2i3T/MINlZJgzX80IsofgIUC8UzmEyZRaaGSBW7g7LYDEnTpAA=" />
+        <module name="switch" url="https://gms.yoyogames.com/d80792cf-b02a-4c67-9019-c3b78883755a.zip" sparkle:version="2024.1400.0.827" length="63455662" sparkle:dsaSignature="MCwCFEICAHWXNBYBh2gLejgolM/orE8bAhREbXzjrjW+BTg37iXiH2P9EfKjow==" />
+        <module name="switch2" url="https://gms.yoyogames.com/38d163b1-5531-4e70-9c46-460d12608d70.zip" sparkle:version="2024.1400.0.827" length="62059012" sparkle:dsaSignature="MC0CFD+eLAffzTidyyy8mv8l2530+SqoAhUAkrv7h9RmnrHrvaYVWVrAhJzgrYQ=" />
+        <module name="tvos" url="https://gms.yoyogames.com/ceb2af48-484c-43e9-b808-c3808ca38c2a.zip" sparkle:version="2024.1400.0.827" length="550150144" sparkle:dsaSignature="MCwCFDK+v7l72FwmOyG13RAxtPaQ1H/1AhQZciFM5hiYu4GgDw5Q3NfT/e5Pwg==" />
+        <module name="windows" url="https://gms.yoyogames.com/36f2f411-0eff-4d05-b572-f1423cdf0830.zip" sparkle:version="2024.1400.0.827" length="46986807" sparkle:dsaSignature="MCwCFDmHF0UwYFzniUcRdYZG+hPQT272AhRM+hQy54Xj6hzbKS990Khb8TZ/Tg==" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/36636406-524d-4450-8247-d37268cfcc56.zip" sparkle:version="2024.1400.0.827" length="94256512" sparkle:dsaSignature="MCwCFG4caCtDRd5TobLrhtZsNrOD/1O4AhRAr0SN/pX1K9f+Fl/B+v0WwTYrqw==" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/3e5ba97d-ea70-4f12-affa-912588ed7dea.zip" sparkle:version="2024.1400.0.827" length="50668229" sparkle:dsaSignature="MC0CFFcH7D2hXsHQHCPitBTEYDAKMqjEAhUAiOoHXBA5t88Iyq0Cq53CmmSU3Vs=" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2024.1400.0.833</title>
+      <pubDate>Wed, 25 Jun 2025 13:19:55 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1400.0.833.json</comments>
+      <enclosure url="https://gms.yoyogames.com/bfc90806-b0fc-463c-8b7a-ce0ce1509878.zip" sparkle:version="2024.1400.0.833" type="application/octet-stream" length="29149707" sparkle:dsaSignature="MCwCFCVYegCvbeIlIHd9sA/Eu6189G/sAhQtFHPJqJ9WfhhOvV0x6fDRHD7K1w==">
+        <module name="android" url="https://gms.yoyogames.com/dd4b7657-f076-4b0f-98d6-2eef5d68baa0.zip" sparkle:version="2024.1400.0.833" length="41525475" sparkle:dsaSignature="MC4CFQCZUXWozirq3Q03BPDRyE5l4sVOUAIVAJKDPaZjJ8KS0H/8toSpT1PjUzJo" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/7072d47d-4139-4fb9-b2b2-be9064604589.zip" sparkle:version="2024.1400.0.833" length="134008638" sparkle:dsaSignature="MC0CFQCMtNsBxy6uhx3/7j6tX1KZd83p/wIULJh2L9nZwNJd+/+/KQn82j0A41s=" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/e1107bca-4194-4cf8-95cb-27487f8264b3.zip" sparkle:version="2024.1400.0.833" length="139349485" sparkle:dsaSignature="MC0CFC5jkszCdT9Ua0edVyakc3z9g9riAhUAjWwIf/a/Zm9D9dqTsh8XlWcrGgw=" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/e12793b9-2be4-494f-9ab5-4f3b730da85d.zip" sparkle:version="2024.1400.0.833" length="136531434" sparkle:dsaSignature="MCwCFGwJNQdFZGG+KzbNzTTeIQL9DeeCAhRyK03zG4/Y4a+5AUVnxt4kGgbX8Q==" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/68e9e7cd-5c6e-4e49-8130-494386e5a0eb.zip" sparkle:version="2024.1400.0.833" length="142769705" sparkle:dsaSignature="MC0CFQCHuVOeSpgZQ41QowoIp7r4X0tabwIUUWYl150DpCQU8No3/b8mA/Z3cS0=" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/9572275e-22b9-4448-b036-e69229996b65.zip" sparkle:version="2024.1400.0.833" length="175405304" sparkle:dsaSignature="MC0CFCPlU49tfTEnyMIOLXK+zoBykGuHAhUAhoFL+INFEyoJ7ji6l8slMSfi6r8=" />
+        <module name="html5" url="https://gms.yoyogames.com/7fe5ffb5-d1a4-4935-bde3-0d34e4b10d20.zip" sparkle:version="2024.1400.0.833" length="587076" sparkle:dsaSignature="MCwCFCcowo0shVEMz4No/s/5laO3qBlrAhQXbBNQ0ig/XSfDdGHfr9J8f6TjsA==" />
+        <module name="ios" url="https://gms.yoyogames.com/0dad06e1-9381-4c0b-927b-1a80fdaa8160.zip" sparkle:version="2024.1400.0.833" length="204267337" sparkle:dsaSignature="MC0CFACugSYya0L4AEOorTF37iNs9nbpAhUAh5fYYo8u6FDZmMiUFziyneI2QgE=" />
+        <module name="linux" url="https://gms.yoyogames.com/842a5378-a4dd-4c14-8402-fe6a5a3e4590.zip" sparkle:version="2024.1400.0.833" length="10686727" sparkle:dsaSignature="MCwCFFsYbedRQYkZARrm1hC/HSgb2cm4AhQXYtcAws9cubAC4V7IzAYNwHd+0g==" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/f5a25305-d687-44a5-849e-010929097774.zip" sparkle:version="2024.1400.0.833" length="111032847" sparkle:dsaSignature="MC0CFQCDvIILSXY98qag+YjUFrSekWh4PQIUIPjQwK24WjQqlsjt0jnTzneEe64=" />
+        <module name="mac" url="https://gms.yoyogames.com/fc98a524-5cf2-4cd0-bd03-6e0db6c1b4bf.zip" sparkle:version="2024.1400.0.833" length="11822628" sparkle:dsaSignature="MCwCFE8o7pXLSxa5gDdEA7q5Ah3aSZg+AhRt+OTDMRIMV1DnJPTHh0Hielkrpg==" />
+        <module name="macYYC" url="https://gms.yoyogames.com/7ab88af3-b46c-44a6-b36a-c519dbd5596a.zip" sparkle:version="2024.1400.0.833" length="30815255" sparkle:dsaSignature="MCwCFF64ymJjyIKI1lyOWR3b/YvgIkhQAhRPXpVV/URlTYkyY0VGNUDg4gHf9Q==" />
+        <module name="operagx" url="https://gms.yoyogames.com/fdd61e1e-b88e-428a-816a-bf56aa237b05.zip" sparkle:version="2024.1400.0.833" length="5805738" sparkle:dsaSignature="MCwCFAg6Q12FuNA9ZwcKYXgXQsbImgRhAhQEG80GcNsGpx7TErxp8ATyhV4rQQ==" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/17ee0bb7-656b-4100-9a76-57e968ada027.zip" sparkle:version="2024.1400.0.833" length="28338055" sparkle:dsaSignature="MCwCFAi6q/L+3GPIkE5h+PJQgry7caKNAhQ8aUCOgJ6HkBh9sG5WqZsrWefaGg==" />
+        <module name="ps4" url="https://gms.yoyogames.com/409e4071-b425-41c3-be44-aae37802fcbe.zip" sparkle:version="2024.1400.0.833" length="15246317" sparkle:dsaSignature="MC0CFHJ/LDY22cmtMsag+elJ5emV3bW4AhUAiN3Tg1hHw37XFPPyI005nezuJ4Y=" />
+        <module name="ps5" url="https://gms.yoyogames.com/025f859a-69ed-4f11-9bd3-4563771b3e52.zip" sparkle:version="2024.1400.0.833" length="16702635" sparkle:dsaSignature="MC0CFHa+AK/L8D4OHO+5fISevlE7pTumAhUAg7+uQdTcFyGRVToizvMpRoDSs5s=" />
+        <module name="switch" url="https://gms.yoyogames.com/da9fe8b5-61d4-408d-a275-bd1b7382c6d0.zip" sparkle:version="2024.1400.0.833" length="63457864" sparkle:dsaSignature="MCwCFFgNNuCIr/LJWBNbw17zMou+x6CKAhR1DtVNZvikvsO+PS1g0AZlda9dSQ==" />
+        <module name="switch2" url="https://gms.yoyogames.com/dd87fc75-17a5-4c86-8610-4650cd7b453d.zip" sparkle:version="2024.1400.0.833" length="62060185" sparkle:dsaSignature="MCwCFDY5IluRYvv1hV1CJSa/IzcMXRU6AhRzmaJxOdLMsxQ5pgHt6onH2ReCvQ==" />
+        <module name="tvos" url="https://gms.yoyogames.com/8d848e5f-9400-4879-8e4b-7f6d7d83f514.zip" sparkle:version="2024.1400.0.833" length="550159701" sparkle:dsaSignature="MCwCFDl/HekNTjOZBaGPspEWRjDCzlAJAhRjd7APA9W+gxDNZCtplYctj0Vdig==" />
+        <module name="windows" url="https://gms.yoyogames.com/54668193-87e9-4b46-9564-b5decd428c97.zip" sparkle:version="2024.1400.0.833" length="46988303" sparkle:dsaSignature="MCwCFAMSk+DNECZEBM7/3SGQo+dbnvirAhRfytC8kJjHg12XN62un8QWCe7hLA==" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/0fa8cfcd-f615-4d55-ac27-87bfb0d175d2.zip" sparkle:version="2024.1400.0.833" length="94250741" sparkle:dsaSignature="MCwCFBeknIZvvUg7CY36hm5aeDBa737RAhRhl+qFru0uM6rOsX4h7JunKm0F0Q==" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/aa2fa40e-bd42-4a90-8108-1fa4c03ddde1.zip" sparkle:version="2024.1400.0.833" length="50670041" sparkle:dsaSignature="MCwCFEhpKtMKE6G118RdRBU7rXKFstBgAhQDgImOkBJC2uvEr06U+pYyeNU/MQ==" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2024.1400.0.836</title>
+      <pubDate>Wed, 02 Jul 2025 09:29:37 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1400.0.836.json</comments>
+      <enclosure url="https://gms.yoyogames.com/80968ee1-32d5-42da-a314-a3c613ac843c.zip" sparkle:version="2024.1400.0.836" type="application/octet-stream" length="29149696" sparkle:dsaSignature="MCwCFDGFUgtqbK+GUixz7eetfM5rmWOUAhQHWbJFaLLUNgPpLe1lWC+4mC9HRA==">
+        <module name="android" url="https://gms.yoyogames.com/59075310-93bf-4403-ad5f-ddaa36ba72d2.zip" sparkle:version="2024.1400.0.836" length="41532883" sparkle:dsaSignature="MCwCFFDvMizXjBwZxuYNPtrf66SB8npyAhQXKkVxHeQ5sJ8K3MU5FRNUDm7LpA==" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/4cec8b0a-6a69-4546-9b5a-2067e986a33e.zip" sparkle:version="2024.1400.0.836" length="134009744" sparkle:dsaSignature="MCwCFD8844KH7wd7r7ltWAtW0IVnISiJAhQh0+tBw/ohMLyvcbzoF3iu9bpLhA==" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/5450f2a4-4f7a-4d10-8439-da4256943a00.zip" sparkle:version="2024.1400.0.836" length="139350031" sparkle:dsaSignature="MCwCFEmGELd+R2uM6fwKPGpsSNf0Z5SVAhRR9ZUvZTTV+RLFo7B/fyUDGRkprA==" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/fe9f33a1-b283-4ffe-bfd9-2f6c58247255.zip" sparkle:version="2024.1400.0.836" length="136532593" sparkle:dsaSignature="MC0CFQCbmp6JxpZpYM3O911JTY/p00cF3QIUdUor7cQlXVCfQiHozvDDcWtdy2c=" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/14dc16e3-36e7-4a1d-8520-7cbf64938590.zip" sparkle:version="2024.1400.0.836" length="142770743" sparkle:dsaSignature="MCwCFDwSmfJwxdO0z8iwb09qtaeEwpjOAhRc5QYYXMXHMVVmml+Jwf1X0rKBSw==" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/d05910c0-5808-40f1-b558-cd59970a924b.zip" sparkle:version="2024.1400.0.836" length="175405899" sparkle:dsaSignature="MCwCFEKXCyRlj+D1yEJALmInrr9+OO23AhRd4QMY695E5NwhlOeVgV+6/o44gg==" />
+        <module name="html5" url="https://gms.yoyogames.com/2576ba48-e95c-4353-9e78-a691d13e6b8b.zip" sparkle:version="2024.1400.0.836" length="587517" sparkle:dsaSignature="MCwCFCVqDUeafPp3/znN7omX5CBBnHdQAhQC4EAzP5mpUXRZ+T1qKF3oDDZ12g==" />
+        <module name="ios" url="https://gms.yoyogames.com/7891a2d2-99d8-4462-aa5c-244ace2f06a5.zip" sparkle:version="2024.1400.0.836" length="204249687" sparkle:dsaSignature="MCwCFA4M7657rk1oqIvAAegoN4zatzPuAhRZik165zyZ4Auul7UMFxbQ4gxoAQ==" />
+        <module name="linux" url="https://gms.yoyogames.com/282d6eee-22d3-48eb-9db1-5a9683946dfd.zip" sparkle:version="2024.1400.0.836" length="10688210" sparkle:dsaSignature="MCwCFA0gnX0vsWPEwNT0lJFua5ANFuadAhR0k6UctVsSCOxCSWd2LFS1G7STJQ==" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/ae077880-152b-490d-a14b-4bcd756ac7af.zip" sparkle:version="2024.1400.0.836" length="110987278" sparkle:dsaSignature="MCwCFBppuKBtpB1n2JeouIUBAr9oUH+oAhRk2zdjiiaUlQ4jyWnWogVBawrMKg==" />
+        <module name="mac" url="https://gms.yoyogames.com/f6ceafe2-b54f-41c2-b80c-5a376f4d21a1.zip" sparkle:version="2024.1400.0.836" length="11823427" sparkle:dsaSignature="MC0CFQCHPXUvOtUlt1emw0by/GrnRhuj7AIUdGorCdBx70uOd2aeQPsWJVuNUe4=" />
+        <module name="macYYC" url="https://gms.yoyogames.com/5e443409-8cad-4b64-b27b-d27d91934216.zip" sparkle:version="2024.1400.0.836" length="30819753" sparkle:dsaSignature="MC0CFQCKBqKOBA89NRt4TQydQERaCX7WuQIUWd04Hpd0PukGzNyxlAuIGCWaFRg=" />
+        <module name="operagx" url="https://gms.yoyogames.com/7212baf1-0138-4eec-bc3a-52f283897706.zip" sparkle:version="2024.1400.0.836" length="5807404" sparkle:dsaSignature="MCwCFA2KsA+n33Pk7aFFTWfCgyJf0g0RAhQhohFSofw0ubfoZPW5R548iESFRA==" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/00a38d48-04f9-4c2b-95bf-7a73efac362a.zip" sparkle:version="2024.1400.0.836" length="28335691" sparkle:dsaSignature="MC0CFQCO2AGpNeqxnPNgjf1MCA5c1ERpPAIURfDKg8G03zF9nZSqf3a90MRMgBk=" />
+        <module name="ps4" url="https://gms.yoyogames.com/bd260b4b-7cc3-40a0-99bd-3c8db2936e67.zip" sparkle:version="2024.1400.0.836" length="15251099" sparkle:dsaSignature="MCwCFDVTCaSefAIFLKLYdds/7SveWu1SAhQS471M6pcUBG7/eFtvypb03F5SpA==" />
+        <module name="ps5" url="https://gms.yoyogames.com/6861bb12-45fd-4c1d-a970-95c1b5d185d9.zip" sparkle:version="2024.1400.0.836" length="16704754" sparkle:dsaSignature="MCwCFFpBDvVksJqeBWG7Z/WlpvIM5WLtAhQ/ezPyWCt+FwmDBYXUOa5agOQmgQ==" />
+        <module name="switch" url="https://gms.yoyogames.com/625d6ede-09a4-4e53-b32f-cf93a3115af0.zip" sparkle:version="2024.1400.0.836" length="63465189" sparkle:dsaSignature="MCwCFGYZ6hbIbWj9ZCo7kqrbV8O+nnfzAhRuF9Y9Nx2ciEwJECeEE/YbyJb4vA==" />
+        <module name="switch2" url="https://gms.yoyogames.com/6e92913f-1358-4bb6-b43d-ccf5c41e344c.zip" sparkle:version="2024.1400.0.836" length="62068988" sparkle:dsaSignature="MC0CFQCbYUluAJPeDlqXXS01rG5qR40adgIUKlGpJI/t4cvFYOzxo9AnztBzZaA=" />
+        <module name="tvos" url="https://gms.yoyogames.com/331d777c-d3fc-43f8-bb27-0c4c743319b6.zip" sparkle:version="2024.1400.0.836" length="550212551" sparkle:dsaSignature="MC0CFEsCHDUasH+bkGRfwAILnJ0qIggiAhUAhCt6YBlJAH38zJga/RUn5vJjh0Y=" />
+        <module name="windows" url="https://gms.yoyogames.com/2b22437a-5751-4ed0-89ec-70aea4408a9a.zip" sparkle:version="2024.1400.0.836" length="46989842" sparkle:dsaSignature="MCwCFB3vdVIXwWNryDC1zMDnrspx2F+BAhRjxbNtiN5D9ez8anab6D3Vwq6sLg==" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/dc13e30d-ca15-445b-8754-ac7187aaab82.zip" sparkle:version="2024.1400.0.836" length="94405420" sparkle:dsaSignature="MC0CFQCSOgP2NYnO4sOeCDQlrsLdClEMsQIUHYCNRs9p7LJLET/y98CbaHIHCBs=" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/d4a85eaa-cc3d-4a0b-b786-d86d593140a6.zip" sparkle:version="2024.1400.0.836" length="50669948" sparkle:dsaSignature="MCwCFBKHbKOaf5Tf1iHtJ5kOC9Wl8VdcAhQPNsOabPtDe4g+IBf+A/+YKaO7Qg==" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2024.1400.0.842</title>
+      <pubDate>Mon, 14 Jul 2025 07:46:57 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gms.yoyogames.com//Zeus-Runtime-NuBeta-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.yoyogames.com/release-notes-2024.1400.0.842.json</comments>
+      <enclosure url="https://gms.yoyogames.com/ae6af366-6142-479e-a491-54e3c2bcc9fa.zip" sparkle:version="2024.1400.0.842" type="application/octet-stream" length="29096345" sparkle:dsaSignature="MC0CFBohGp+RYAg/eBPMKOKMt7p774U2AhUAjVcb2e/vKhEBGko9z4cKQxbdCXA=">
+        <module name="android" url="https://gms.yoyogames.com/eb73f0f5-0113-4054-aa6a-d542133df72f.zip" sparkle:version="2024.1400.0.842" length="41529172" sparkle:dsaSignature="MCwCFGMBezouAQHLjIzjb2XjLYZCB6pzAhRc0ogNuxVNWGUlCcdw7rWGQcn4QA==" />
+        <module name="base-module-linux-arm64" url="https://gms.yoyogames.com/6057f056-3fbc-4d40-9537-3bbdaf11f7c0.zip" sparkle:version="2024.1400.0.842" length="134013292" sparkle:dsaSignature="MCwCFCJ4aLYF5ByC6DmtVMXWBhLsBjFCAhRYSLg03EzB52c8ytzn8OiPOBq3PQ==" />
+        <module name="base-module-linux-x64" url="https://gms.yoyogames.com/e6704a06-cd69-4006-8393-3037f7d3da4c.zip" sparkle:version="2024.1400.0.842" length="139341805" sparkle:dsaSignature="MCwCFAghoXD7k6QF84Vb1FdwlA5Ye7BzAhRKaNG/xw4bp/4JJaEFsHPecgIC4Q==" />
+        <module name="base-module-osx-arm64" url="https://gms.yoyogames.com/790a2b57-fc37-4134-a4c6-d231aed29d37.zip" sparkle:version="2024.1400.0.842" length="136535053" sparkle:dsaSignature="MCwCFEPH3bPz5UwpyvOvhrckn22hKiyOAhRYSCGWfCgbiW69xNvEc88/FDTo+A==" />
+        <module name="base-module-osx-x64" url="https://gms.yoyogames.com/2d8bd327-2874-46b8-a254-749a5bff38b6.zip" sparkle:version="2024.1400.0.842" length="142772659" sparkle:dsaSignature="MC0CFQCTsTyNqIaakJjsV6AeHVdIXGaqWgIUayrFwu8SrQ7itcpJ6aYiySdqEwE=" />
+        <module name="base-module-windows-x64" url="https://gms.yoyogames.com/270dd184-a6d8-43d6-9360-955e9655353e.zip" sparkle:version="2024.1400.0.842" length="175417144" sparkle:dsaSignature="MC0CFQCZ3qBX8PkF7iDdPkaxEj6pc37EdgIUJzxsCj0E4TnQC5bD+zBomoaxX1Q=" />
+        <module name="html5" url="https://gms.yoyogames.com/c3630c82-73e8-4607-9711-83c36c9cbef4.zip" sparkle:version="2024.1400.0.842" length="587428" sparkle:dsaSignature="MCwCFHIy78ezNmSWBI1DvNtpeznt3WnBAhRQLGQn0XihirrqVArxL8UYhfhJEg==" />
+        <module name="ios" url="https://gms.yoyogames.com/4d1f4c03-e198-4b56-bd1c-9d76272cce64.zip" sparkle:version="2024.1400.0.842" length="204268590" sparkle:dsaSignature="MCwCFFgUZnoNZhp8GJnVCMKFjggQAAOmAhQzdOnkmGSmfN8eMlPRCpxMMuzJvg==" />
+        <module name="linux" url="https://gms.yoyogames.com/85c5f80f-86c3-4b7a-a3ec-52e8279bd0a2.zip" sparkle:version="2024.1400.0.842" length="10689662" sparkle:dsaSignature="MC4CFQCSFmID+4kqlXfvaYNoFumesLFvQAIVAJHxqO+rxgemUYaYE+oXFTSyDm/5" />
+        <module name="linuxYYC" url="https://gms.yoyogames.com/6332f913-69a7-4cb5-8971-d21854f55b17.zip" sparkle:version="2024.1400.0.842" length="111052382" sparkle:dsaSignature="MCwCFFKANAxY0sAcnsHYl9oYJnB/bBAUAhQkg/3ZmLukNIEj2Q2CEnF3DGWT8g==" />
+        <module name="mac" url="https://gms.yoyogames.com/0add1998-b5ac-4f3d-aa41-546abe3937b2.zip" sparkle:version="2024.1400.0.842" length="11824063" sparkle:dsaSignature="MC4CFQCIAqyZXYKGX3F70pyfR6fm3erYMQIVAJL+m9ZjFBTp+0CaqpTeTtutXRdY" />
+        <module name="macYYC" url="https://gms.yoyogames.com/6c736490-7f99-4554-a3fd-978fc6f38b1c.zip" sparkle:version="2024.1400.0.842" length="30820525" sparkle:dsaSignature="MCwCFHqVPfopnuPCulUsZrc2TUnyhHTcAhRCduSIR50WvmxUXwRu/gODs3MSRg==" />
+        <module name="operagx" url="https://gms.yoyogames.com/b698f7b9-350d-4ec5-aa48-2be105cb9c94.zip" sparkle:version="2024.1400.0.842" length="5808093" sparkle:dsaSignature="MCwCFFCV+Q6gU0wp8eClYTs1WLdO2XLmAhQlwDhdldOxaU7uKHOuEVtClQg2aQ==" />
+        <module name="operagxYYC" url="https://gms.yoyogames.com/85d81094-9036-4a91-821e-9e7b85d9328c.zip" sparkle:version="2024.1400.0.842" length="28343964" sparkle:dsaSignature="MCwCFDohbr0uXlg10Gdr1R+gmy/WK1J9AhQiQac/qs12gUbquaAmMRZnFY9xXQ==" />
+        <module name="ps4" url="https://gms.yoyogames.com/bd4fe4e2-1258-4e18-932a-258d3178fc47.zip" sparkle:version="2024.1400.0.842" length="15253477" sparkle:dsaSignature="MCwCFHIepSDC6pXEPS2quHzuWGNpvvSBAhQCd+FNzryD5Roxaugcf89bxmNDTw==" />
+        <module name="ps5" url="https://gms.yoyogames.com/c457ac72-dea9-4204-b2bf-690849ded2a0.zip" sparkle:version="2024.1400.0.842" length="16706801" sparkle:dsaSignature="MC0CFDMMxc1oNtWzyvFW7W4lUpja3kmUAhUAkM/IUnOmHDv6Ju2bCxr4MDYVqoM=" />
+        <module name="switch" url="https://gms.yoyogames.com/8822a424-21c3-46f4-8f8b-cc77a6f723da.zip" sparkle:version="2024.1400.0.842" length="63470659" sparkle:dsaSignature="MCwCFBYWLywBrEa9CMJDO34kL+DvgbKDAhQ4VtR0Snp5SJhJB3VIcAxoWLfEZQ==" />
+        <module name="switch2" url="https://gms.yoyogames.com/3e849f6e-680f-4ca9-8d25-8bce389f583a.zip" sparkle:version="2024.1400.0.842" length="62080325" sparkle:dsaSignature="MCwCFCxTJZD8d7FI2Hsg4NimJf7le9gNAhQgH5R+I39dSwXu/9yusw4be4yi5A==" />
+        <module name="tvos" url="https://gms.yoyogames.com/57148414-252c-4299-a893-ee741487d893.zip" sparkle:version="2024.1400.0.842" length="550282486" sparkle:dsaSignature="MCwCFF0EcebVVtKXs5/vGSpNlCjgxa1DAhQOO9MqWKS0/5LP6vyHlxeCK+YX9A==" />
+        <module name="windows" url="https://gms.yoyogames.com/73b388f9-ce26-4ed9-87e2-4b2a2c2d5f73.zip" sparkle:version="2024.1400.0.842" length="46990422" sparkle:dsaSignature="MCwCFHXdJIT/K7LUosjN6rZMLG40kshTAhRsCF5GqYhlOrYM4TM7vlxhZM+ciw==" />
+        <module name="windowsYYC" url="https://gms.yoyogames.com/9a9a9481-29aa-441e-a2b4-bff692a74f84.zip" sparkle:version="2024.1400.0.842" length="94440118" sparkle:dsaSignature="MCwCFHwsU7fbMSd7j1oWHKU80AxmyGlwAhQey3b3IVnLcJ/WbtwxFfm+BQ3yVQ==" />
+        <module name="xboxseriesxs" url="https://gms.yoyogames.com/28d204e7-9b80-451e-8ccf-59157658b743.zip" sparkle:version="2024.1400.0.842" length="50674940" sparkle:dsaSignature="MC0CFAvk7TDlZx9hKdTaYDGo9RA9vWWSAhUAmOX+/iN6jlm6BeOLKNRnzsrOgwg=" />
+      </enclosure>
+    </item>
+  </channel>
+</rss>

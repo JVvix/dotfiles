@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1" mipsToGenerate="0" texwidth="64" texheight="64">default_0.bz2</texture>
+  <tpe x="0" y="2" tpage="default_0.bz2">spr_first_Blank Pixel Game_1_92d14095-7826-4436-8b9b-998cbfd1b73b.tpe</tpe>
+</TextureGroup>

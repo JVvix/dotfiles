@@ -1,0 +1,12 @@
+2025-07-25 08:35:19.356 [info] Extension host with pid 32455 started
+2025-07-25 08:35:19.356 [info] Skipping acquiring lock for /home/fly/.config/Code/User/workspaceStorage/eceb20646d1b603f24604f31703cdaf7.
+2025-07-25 08:35:19.667 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-07-25 08:35:20.142 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-07-25 08:35:20.238 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-25 08:35:20.669 [info] Eager extensions activated
+2025-07-25 08:35:21.322 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-25 08:35:21.345 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-25 08:35:28.388 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-07-25 08:35:41.142 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-25 09:12:24.804 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-25 09:12:25.662 [info] Extension host with pid 32455 exiting with code 0
