@@ -1,0 +1,2 @@
+cd ~/.local/share/chezmoi
+git push https://JVvix:$(pass chezmoi)@github.com/JVvix/dotfiles.git --all
